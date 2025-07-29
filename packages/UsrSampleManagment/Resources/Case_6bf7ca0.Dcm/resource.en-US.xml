@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Case for sample status" />
+			<Item Name="NotificationCaption.Caption" Value="Process instance caption" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Process name#]" />
+			<Item Name="Stages.Stage1.Caption" Value="Pending" />
+			<Item Name="Stages.Stage2.Caption" Value="Transferred" />
+			<Item Name="Stages.Stage3.Caption" Value="Shipped" />
+			<Item Name="Stages.Stage4.Caption" Value="Canceled" />
+			<Item Name="Stages.Stage5.Caption" Value="Back Order" />
+			<Item Name="Stages.Stage6.Caption" Value="Completed" />
+			<Item Name="Stages.Stage7.Caption" Value="Rejected" />
+		</Items>
+	</Group>
+</Resources>

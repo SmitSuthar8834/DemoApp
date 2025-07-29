@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "1a233f46-a32a-47b6-9c78-69ba7099b2c4",
+    "Name": "UsrRecordCreation",
+    "ModifiedOnUtc": "\/Date(1753365407000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "Record Creation",
+    "DependsOn": []
+  }
+}

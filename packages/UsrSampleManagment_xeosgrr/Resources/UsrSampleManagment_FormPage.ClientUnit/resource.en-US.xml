@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.addRecord_o8lcwyw_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.EmailInput_2l998g7_caption.Value" Value="Email address" />
+			<Item Name="LocalizableStrings.EmailInput_2l998g7_label.Value" Value="Email address" />
+			<Item Name="LocalizableStrings.Input_h0b34c6_placeholder.Value" Value="Type here" />
+			<Item Name="LocalizableStrings.Label_96mku7g_caption.Value" Value="Customer Profile" />
+			<Item Name="LocalizableStrings.Label_aa52qxl_caption.Value" Value="Contact Profile" />
+			<Item Name="LocalizableStrings.PhoneInput_fupo38u_caption.Value" Value="Phone number" />
+			<Item Name="LocalizableStrings.PhoneInput_fupo38u_label.Value" Value="Phone number" />
+			<Item Name="LocalizableStrings.TabBackOrder_caption.Value" Value="Back Order" />
+			<Item Name="LocalizableStrings.TabCanceled_caption.Value" Value="Canceled" />
+			<Item Name="LocalizableStrings.TabCompleted_caption.Value" Value="Completed" />
+			<Item Name="LocalizableStrings.TabRejected_caption.Value" Value="Rejected" />
+			<Item Name="LocalizableStrings.TabShipped_caption.Value" Value="Shipped" />
+			<Item Name="LocalizableStrings.TabTransferred_caption.Value" Value="Transferred" />
+		</Items>
+	</Group>
+</Resources>

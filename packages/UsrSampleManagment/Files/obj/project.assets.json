@@ -1,0 +1,59 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.7.2": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.7.2": []
+  },
+  "packageFolders": {
+    "C:\\Windows\\TEMP\\46\\MS_iis-b590b2b6504447b2\\Default\\dotnet\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "8.2.2.1870",
+    "restore": {
+      "projectUniqueName": "D:\\App\\dev-qnovate\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\UsrSampleManagment\\Files\\UsrSampleManagment.csproj",
+      "projectName": "UsrSampleManagment",
+      "projectPath": "D:\\App\\dev-qnovate\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\UsrSampleManagment\\Files\\UsrSampleManagment.csproj",
+      "packagesPath": "C:\\Windows\\TEMP\\46\\MS_iis-b590b2b6504447b2\\Default\\dotnet\\.nuget\\packages\\",
+      "outputPath": "D:\\App\\dev-qnovate\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\UsrSampleManagment\\Files\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Windows\\TEMP\\46\\MS_iis-b590b2b6504447b2\\Default\\dotnet\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net472"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net472": {
+        "targetAlias": "net472",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

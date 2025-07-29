@@ -1,0 +1,23 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "AddonSchemaManager",
+      "UId": "dbc2f7f7-f7cf-4a03-ac2f-efdb5e4b9919",
+      "A2": "UsrSampleManagment_FormPageBusinessRule",
+      "A5": "ce7b06a4-6340-40e1-8878-66c4fa977250",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "5d97db24-3628-4805-bf3a-b979b558784d",
+      "B8": "8.2.2.1870",
+      "AD1": "cd9e404c-462f-4832-956f-82b70e256da4",
+      "AD2": "ClientUnitSchemaManager",
+      "AD3": "BusinessRule",
+      "AD5": "3a2d6f51-1bfc-4c17-aacb-b53de4866b7c",
+      "AD4": {
+        "JI0": "Terrasoft.Core.BusinessRules.BusinessRules",
+        "BRS1": []
+      }
+    }
+  }
+}

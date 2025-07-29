@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "a3fb692a-0d77-4764-b524-bde2416eee73",
+    "Name": "UsrSampleManagment",
+    "ModifiedOnUtc": "\/Date(1753346017000)\/",
+    "Parent": {
+      "UId": "84df775d-db8d-4cba-855b-9978b1d4d976",
+      "Name": "UsrSampleManagment"
+    },
+    "ExtendParent": true,
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Sample Managment",
+    "DependsOn": []
+  }
+}

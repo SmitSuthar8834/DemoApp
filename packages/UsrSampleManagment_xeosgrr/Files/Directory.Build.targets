@@ -1,0 +1,19 @@
+<Project>
+	<ItemGroup Condition="'$(PkgPath)' != ''">
+		<Compile Remove="$(PkgPath)/UsrSampleManagment_xeosgrr/Assemblies/**" />
+		<Compile Remove="$(PkgPath)/UsrSampleManagment_xeosgrr/Data/**" />
+		<Compile Remove="$(PkgPath)/UsrSampleManagment_xeosgrr/SqlScripts/**" />
+		<Compile Remove="$(PkgPath)/UsrSampleManagment_xeosgrr/Schemas\**" />
+		<Compile Remove="$(PkgPath)/UsrSampleManagment_xeosgrr/Resources/**" />
+		<EmbeddedResource Remove="$(PkgPath)/UsrSampleManagment_xeosgrr/Assemblies/**" />
+		<EmbeddedResource Remove="$(PkgPath)/UsrSampleManagment_xeosgrr/Data/**" />
+		<EmbeddedResource Remove="$(PkgPath)/UsrSampleManagment_xeosgrr/SqlScripts/**" />
+		<EmbeddedResource Remove="$(PkgPath)/UsrSampleManagment_xeosgrr/Schemas/**" />
+		<EmbeddedResource Remove="$(PkgPath)/UsrSampleManagment_xeosgrr/Resources/**" />
+		<None Remove="$(PkgPath)/UsrSampleManagment_xeosgrr/Assemblies/**" />
+		<None Remove="$(PkgPath)/UsrSampleManagment_xeosgrr/Data/**" />
+		<None Remove="$(PkgPath)/UsrSampleManagment_xeosgrr/SqlScripts/**" />
+		<None Remove="$(PkgPath)/UsrSampleManagment_xeosgrr/Schemas/**" />
+		<None Remove="$(PkgPath)/UsrSampleManagment_xeosgrr/Resources/**" />
+  </ItemGroup>
+</Project>

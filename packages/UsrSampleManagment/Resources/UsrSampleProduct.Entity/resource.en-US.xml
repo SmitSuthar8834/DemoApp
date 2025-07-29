@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="SampleProduct" />
+			<Item Name="Columns.UsrProduct.Caption" Value="Product" />
+			<Item Name="Columns.UsrProductCode.Caption" Value="ProductCode" />
+			<Item Name="Columns.UsrProducttype.Caption" Value="Product Type" />
+			<Item Name="Columns.UsrQuantity.Caption" Value="Quantity" />
+			<Item Name="Columns.UsrSampleManagment.Caption" Value="SampleManagment" />
+			<Item Name="Columns.UsrUnitOfMeasure.Caption" Value="Unit Of Measure" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1253567487.Caption" Value="Pool 14675678567" />
+		</Items>
+	</Group>
+</Resources>

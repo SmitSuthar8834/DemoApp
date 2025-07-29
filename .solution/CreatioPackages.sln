@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{a93fb5ab-9f7a-45a8-9173-11ecdc7fa68e}") = "UsrSampleManagment", "..\packages\UsrSampleManagment\Files\UsrSampleManagment.csproj", "{b738df8f-33ba-4d00-8102-c38f9f3ae660}"
+EndProject
+Project("{d5041016-eada-420d-b402-e5a586d171cb}") = "UsrSampleManagment_xeosgrr", "..\packages\UsrSampleManagment_xeosgrr\Files\UsrSampleManagment_xeosgrr.csproj", "{ffd346ef-21de-4220-a19d-06ebfbd6489a}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+			{b738df8f-33ba-4d00-8102-c38f9f3ae660}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+			{b738df8f-33ba-4d00-8102-c38f9f3ae660}.Debug|Any CPU.Build.0 = Debug|Any CPU
+			{b738df8f-33ba-4d00-8102-c38f9f3ae660}.Release|Any CPU.ActiveCfg = Release|Any CPU
+			{b738df8f-33ba-4d00-8102-c38f9f3ae660}.Release|Any CPU.Build.0 = Release|Any CPU
+			{ffd346ef-21de-4220-a19d-06ebfbd6489a}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+			{ffd346ef-21de-4220-a19d-06ebfbd6489a}.Debug|Any CPU.Build.0 = Debug|Any CPU
+			{ffd346ef-21de-4220-a19d-06ebfbd6489a}.Release|Any CPU.ActiveCfg = Release|Any CPU
+			{ffd346ef-21de-4220-a19d-06ebfbd6489a}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "505f1e6d-70f9-4912-81c9-3a62dfe09083",
+    "Name": "UsrSampleManagmentRelatedPage",
+    "ModifiedOnUtc": "\/Date(1753361137000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Sample Managment (Page settings)",
+    "DependsOn": []
+  }
+}

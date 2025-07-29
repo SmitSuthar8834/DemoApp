@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "5026f2b6-d65b-428f-8390-46a6637d73b9",
+    "Name": "UsrPage_wpirw65",
+    "ModifiedOnUtc": "\/Date(1751595883000)\/",
+    "Parent": {
+      "UId": "ecdcc8ff-272c-4957-9381-7d74ce17e140",
+      "Name": "BaseMiniPageTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "SampleProduct modal page",
+    "DependsOn": []
+  }
+}

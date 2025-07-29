@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Sample Managment form page" />
+			<Item Name="LocalizableStrings.addRecord_g24p5pf_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_j3mdpcj_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_jcxglz0_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_mhqr8ra_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_pzv60q2_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_qcspl5k_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.ExpansionPanel_lvoye3t_title.Value" Value="SampleProduct" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_43gqk6l_caption.Value" Value="New" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_ik5ivt5_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_vy2ersd_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_29d8xzz_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_grkvjyv_placeholder.Value" Value="Search" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_ig44wf8_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.Notes_placeholder.Value" Value="Type here " />
+			<Item Name="LocalizableStrings.TabContainer_6nlvten_caption.Value" Value="Products" />
+		</Items>
+	</Group>
+</Resources>

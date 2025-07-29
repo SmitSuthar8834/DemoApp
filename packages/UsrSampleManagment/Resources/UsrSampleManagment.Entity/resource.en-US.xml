@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Sample Managment" />
+			<Item Name="Columns.UsrContact.Caption" Value="Contact" />
+			<Item Name="Columns.UsrCourierName.Caption" Value="Courier Name" />
+			<Item Name="Columns.UsrCustomerCode.Caption" Value="Customer Code" />
+			<Item Name="Columns.UsrCustomerLocation.Caption" Value="Customer Location" />
+			<Item Name="Columns.UsrCustomerName.Caption" Value="Customer Name" />
+			<Item Name="Columns.UsrExpectedDeliveryDate.Caption" Value="Expected Delivery Date" />
+			<Item Name="Columns.UsrNotes.Caption" Value="Notes" />
+			<Item Name="Columns.UsrPriority.Caption" Value="Priority" />
+			<Item Name="Columns.UsrProductCode.Caption" Value="Product Code" />
+			<Item Name="Columns.UsrProductName.Caption" Value="Product Name" />
+			<Item Name="Columns.UsrProducttype.Caption" Value="Product Type" />
+			<Item Name="Columns.UsrQuantity.Caption" Value="Quantity" />
+			<Item Name="Columns.UsrReferenceNumber.Caption" Value="Reference Number" />
+			<Item Name="Columns.UsrReferenceSalesQuoteId.Caption" Value="Reference Sales Quote Id" />
+			<Item Name="Columns.UsrRequestedBy.Caption" Value="Requested By" />
+			<Item Name="Columns.UsrRequestedByEmail.Caption" Value="Requested By Email" />
+			<Item Name="Columns.UsrRequestedDate.Caption" Value="Requested Date" />
+			<Item Name="Columns.UsrSampleCode.Caption" Value="Sample Code" />
+			<Item Name="Columns.UsrSampleStatus.Caption" Value="Sample Status" />
+			<Item Name="Columns.UsrSampleType.Caption" Value="Sample Type" />
+			<Item Name="Columns.UsrShipmentDate.Caption" Value="Shipment Date" />
+			<Item Name="Columns.UsrTrackingNumber.Caption" Value="Tracking Number" />
+			<Item Name="Columns.UsrTransportMode.Caption" Value="Transport Mode" />
+			<Item Name="Columns.UsrUnitOfMeasure.Caption" Value="Unit Of Measure" />
+		</Items>
+	</Group>
+</Resources>

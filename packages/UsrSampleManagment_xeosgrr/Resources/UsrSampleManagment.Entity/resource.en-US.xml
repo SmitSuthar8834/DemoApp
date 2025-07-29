@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.BackOrderDate.Caption" Value="BackOrder Date" />
+			<Item Name="Columns.Canceledon.Caption" Value="Canceled on" />
+			<Item Name="Columns.CompletedOn.Caption" Value="Completed On" />
+			<Item Name="Columns.ReasonforCancellation.Caption" Value="Reason for Cancellation" />
+			<Item Name="Columns.RevisedOn.Caption" Value="Revised On" />
+			<Item Name="Columns.TransferredDate.Caption" Value="Transferred Date" />
+			<Item Name="Columns.UsrCarrierServiceClass.Caption" Value="Carrier / Service Class" />
+			<Item Name="Columns.UsrRevisionNotes.Caption" Value="Revision Notes" />
+			<Item Name="Columns.UsrShipmentMethod.Caption" Value="Shipment Method" />
+		</Items>
+	</Group>
+</Resources>

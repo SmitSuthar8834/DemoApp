@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "dbc2f7f7-f7cf-4a03-ac2f-efdb5e4b9919",
+    "Name": "UsrSampleManagment_FormPageBusinessRule",
+    "ModifiedOnUtc": "\/Date(1752149363000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Sample Managment form page (Business rules)",
+    "DependsOn": []
+  }
+}

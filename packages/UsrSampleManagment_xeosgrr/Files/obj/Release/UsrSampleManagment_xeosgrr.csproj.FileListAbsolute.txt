@@ -1,0 +1,9 @@
+D:\App\dev-qnovate\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrSampleManagment_xeosgrr\Files\Bin\UsrSampleManagment_xeosgrr.dll
+D:\App\dev-qnovate\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrSampleManagment_xeosgrr\Files\Bin\UsrSampleManagment_xeosgrr.pdb
+D:\App\dev-qnovate\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrSampleManagment_xeosgrr\Files\obj\Release\UsrSampleManagment_xeosgrr.csproj.AssemblyReference.cache
+D:\App\dev-qnovate\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrSampleManagment_xeosgrr\Files\obj\Release\UsrSampleManagment_xeosgrr.GeneratedMSBuildEditorConfig.editorconfig
+D:\App\dev-qnovate\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrSampleManagment_xeosgrr\Files\obj\Release\UsrSampleManagment_xeosgrr.AssemblyInfoInputs.cache
+D:\App\dev-qnovate\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrSampleManagment_xeosgrr\Files\obj\Release\UsrSampleManagment_xeosgrr.AssemblyInfo.cs
+D:\App\dev-qnovate\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrSampleManagment_xeosgrr\Files\obj\Release\UsrSampleManagment_xeosgrr.csproj.CoreCompileInputs.cache
+D:\App\dev-qnovate\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrSampleManagment_xeosgrr\Files\obj\Release\UsrSampleManagment_xeosgrr.dll
+D:\App\dev-qnovate\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrSampleManagment_xeosgrr\Files\obj\Release\UsrSampleManagment_xeosgrr.pdb

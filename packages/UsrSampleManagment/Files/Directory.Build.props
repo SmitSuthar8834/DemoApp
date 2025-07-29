@@ -1,0 +1,12 @@
+<Project>
+	<ItemGroup Label="Entity Files" Condition="'$(PkgPath)' != ''">
+		<Compile Include="$(PkgPath)/UsrSampleManagment/Schemas/Activity/Activity.cs" Condition="Exists('$(PkgPath)/UsrSampleManagment/Schemas/Activity/Activity.cs')" />
+		<Compile Include="$(PkgPath)/UsrSampleManagment/Schemas/UsrPriority/UsrPriority.cs" Condition="Exists('$(PkgPath)/UsrSampleManagment/Schemas/UsrPriority/UsrPriority.cs')" />
+		<Compile Include="$(PkgPath)/UsrSampleManagment/Schemas/UsrProductType/UsrProductType.cs" Condition="Exists('$(PkgPath)/UsrSampleManagment/Schemas/UsrProductType/UsrProductType.cs')" />
+		<Compile Include="$(PkgPath)/UsrSampleManagment/Schemas/UsrSampleManagment/UsrSampleManagment.cs" Condition="Exists('$(PkgPath)/UsrSampleManagment/Schemas/UsrSampleManagment/UsrSampleManagment.cs')" />
+		<Compile Include="$(PkgPath)/UsrSampleManagment/Schemas/UsrSampleProduct/UsrSampleProduct.cs" Condition="Exists('$(PkgPath)/UsrSampleManagment/Schemas/UsrSampleProduct/UsrSampleProduct.cs')" />
+		<Compile Include="$(PkgPath)/UsrSampleManagment/Schemas/UsrSampleStatus/UsrSampleStatus.cs" Condition="Exists('$(PkgPath)/UsrSampleManagment/Schemas/UsrSampleStatus/UsrSampleStatus.cs')" />
+		<Compile Include="$(PkgPath)/UsrSampleManagment/Schemas/UsrSampleType/UsrSampleType.cs" Condition="Exists('$(PkgPath)/UsrSampleManagment/Schemas/UsrSampleType/UsrSampleType.cs')" />
+		<Compile Include="$(PkgPath)/UsrSampleManagment/Schemas/UsrTransportMode/UsrTransportMode.cs" Condition="Exists('$(PkgPath)/UsrSampleManagment/Schemas/UsrTransportMode/UsrTransportMode.cs')" />
+	</ItemGroup>
+</Project>
