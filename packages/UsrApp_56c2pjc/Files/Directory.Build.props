@@ -1,0 +1,8 @@
+<Project>
+	<ItemGroup Label="Entity Files" Condition="'$(PkgPath)' != ''">
+		<Compile Include="$(PkgPath)/UsrApp_56c2pjc/Schemas/Case/Case.cs" Condition="Exists('$(PkgPath)/UsrApp_56c2pjc/Schemas/Case/Case.cs')" />
+		<Compile Include="$(PkgPath)/UsrApp_56c2pjc/Schemas/UsrBusiness_Impact/UsrBusiness_Impact.cs" Condition="Exists('$(PkgPath)/UsrApp_56c2pjc/Schemas/UsrBusiness_Impact/UsrBusiness_Impact.cs')" />
+		<Compile Include="$(PkgPath)/UsrApp_56c2pjc/Schemas/UsrCategory/UsrCategory.cs" Condition="Exists('$(PkgPath)/UsrApp_56c2pjc/Schemas/UsrCategory/UsrCategory.cs')" />
+		<Compile Include="$(PkgPath)/UsrApp_56c2pjc/Schemas/UsrSubCategory/UsrSubCategory.cs" Condition="Exists('$(PkgPath)/UsrApp_56c2pjc/Schemas/UsrSubCategory/UsrSubCategory.cs')" />
+	</ItemGroup>
+</Project>

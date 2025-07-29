@@ -1,0 +1,54 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "CopilotIntentSchemaManager",
+      "UId": "0ef012f5-747e-8dfe-59b8-75aa0365bdd3",
+      "A2": "SuggestCaseResolution",
+      "A5": "1713fed8-96a6-47e0-8eec-255b2aa9d8cf",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "8739d621-405b-219f-c713-ebf748faeee7",
+      "B8": "8.2.0.3351",
+      "CIS1": "Act as a skilled support engineer. Your task is mandatory to follow all the steps described and suggest the next steps to resolve the client's issue efficiently and with the highest probability of success. Follow all these points step by step:\n\n1. Retrieve Case Data: Use the current context to get the case details. If the case is unclear, ask for the case number and retrieve the data using [GetCaseData].\n2. Retrieve Communications: Get all email messages with [GetCaseActivity] and internal messages with [GetCaseFeedMessages], and get linked to case knowledge base articles with [GetCaseKnowledgeArticles].\n3. Check for Previous Suggestions: Review the case communications to identify if any of the following steps have already been suggested to the client. Clearly list the steps that were already suggested.\n4. Generate Keywords: Use case details to generate up to 3 keywords for searching the knowledge base.\n5. Search Knowledge Base: Use [SearchEntities] to search only the KnowledgeBase entity with the keywords.\n\nIn the response:\n- Explicitly state which steps were previously suggested to the client, by clearly listing them (e.g., 'The following steps were already suggested: [list steps].').\n- Provide new suggestions only for steps that have not yet been proposed.\n\nThe response should be 5-6 sentences, no longer than 90 words. Add the list of relevant found articles. End with a polite closing.",
+      "CIS5": "Suggest next steps to resolve support case",
+      "CIS4": 1,
+      "CIS3": [
+        {
+          "ActionTypeSchemaUId": "019ba91c-f7b5-48f2-9a18-003acd16d7ad",
+          "UId": "9e647029-1c95-43b1-9668-29a2669a88b1",
+          "A2": "GetCaseFeedMessages",
+          "A3": "0ef012f5-747e-8dfe-59b8-75aa0365bdd3",
+          "A4": "0ef012f5-747e-8dfe-59b8-75aa0365bdd3",
+          "ProcessSchemaUId": "fe82a4fb-ebfc-4ffa-8a8e-e76a6462a95f"
+        },
+        {
+          "ActionTypeSchemaUId": "019ba91c-f7b5-48f2-9a18-003acd16d7ad",
+          "UId": "6f4882be-e079-419c-91e3-a30133a328cf",
+          "A2": "GetCaseActivity",
+          "A3": "0ef012f5-747e-8dfe-59b8-75aa0365bdd3",
+          "A4": "0ef012f5-747e-8dfe-59b8-75aa0365bdd3",
+          "ProcessSchemaUId": "e93a314e-7a84-445a-b683-882ec6347c16"
+        },
+        {
+          "ActionTypeSchemaUId": "019ba91c-f7b5-48f2-9a18-003acd16d7ad",
+          "UId": "22e161c5-6cc1-4d0f-ac27-91e8f81f0df2",
+          "A2": "GetCaseData",
+          "A3": "0ef012f5-747e-8dfe-59b8-75aa0365bdd3",
+          "A4": "0ef012f5-747e-8dfe-59b8-75aa0365bdd3",
+          "ProcessSchemaUId": "e6641a21-c8e6-464e-a6e9-b7c15006cb0e"
+        },
+        {
+          "ActionTypeSchemaUId": "019ba91c-f7b5-48f2-9a18-003acd16d7ad",
+          "UId": "44eb56c9-e435-4a91-b5dd-1ef8305d79e7",
+          "A2": "GetCaseKnowledgeArticles",
+          "A3": "0ef012f5-747e-8dfe-59b8-75aa0365bdd3",
+          "A4": "0ef012f5-747e-8dfe-59b8-75aa0365bdd3",
+          "ProcessSchemaUId": "12f69b8c-75cb-4e39-bbbe-aa8b7e1ae874"
+        }
+      ],
+      "CIS6": [],
+      "CIS8": {}
+    }
+  }
+}

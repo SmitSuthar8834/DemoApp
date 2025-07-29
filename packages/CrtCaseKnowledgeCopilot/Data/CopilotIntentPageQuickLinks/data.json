@@ -1,0 +1,100 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "2cdbcd91-9a11-4d7d-90e2-73ee97c21aa9"
+        },
+        {
+          "SchemaColumnUId": "abce90b9-1401-3ac3-18c6-abfcd3ca10b3",
+          "Value": "SuggestCaseResolution"
+        },
+        {
+          "SchemaColumnUId": "c110d2f0-8972-53bd-8071-a349512215c9",
+          "Value": "Cases_ListPage"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "34f20a23-879b-4643-92d7-8dc9a8e732d7"
+        },
+        {
+          "SchemaColumnUId": "abce90b9-1401-3ac3-18c6-abfcd3ca10b3",
+          "Value": "SuggestCaseResolution"
+        },
+        {
+          "SchemaColumnUId": "c110d2f0-8972-53bd-8071-a349512215c9",
+          "Value": "ServiceEnterpriseHomePage"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "6214328b-1236-42ba-9478-ffe1d851e439"
+        },
+        {
+          "SchemaColumnUId": "abce90b9-1401-3ac3-18c6-abfcd3ca10b3",
+          "Value": "CreateCaseKnowledgeArticle"
+        },
+        {
+          "SchemaColumnUId": "c110d2f0-8972-53bd-8071-a349512215c9",
+          "Value": "Cases_ListPage"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "8c6f9e7d-d83e-4c68-a7b3-be6f0ca4f051"
+        },
+        {
+          "SchemaColumnUId": "abce90b9-1401-3ac3-18c6-abfcd3ca10b3",
+          "Value": "SuggestCaseResolution"
+        },
+        {
+          "SchemaColumnUId": "c110d2f0-8972-53bd-8071-a349512215c9",
+          "Value": "Cases_FormPage"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "cab729bd-8c3a-4e3d-9c5c-f8b9ecbd6c0f"
+        },
+        {
+          "SchemaColumnUId": "abce90b9-1401-3ac3-18c6-abfcd3ca10b3",
+          "Value": "CreateCaseKnowledgeArticle"
+        },
+        {
+          "SchemaColumnUId": "c110d2f0-8972-53bd-8071-a349512215c9",
+          "Value": "ServiceEnterpriseHomePage"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "ea5ebb34-85f0-4f87-91cc-9505e537e2d3"
+        },
+        {
+          "SchemaColumnUId": "abce90b9-1401-3ac3-18c6-abfcd3ca10b3",
+          "Value": "CreateCaseKnowledgeArticle"
+        },
+        {
+          "SchemaColumnUId": "c110d2f0-8972-53bd-8071-a349512215c9",
+          "Value": "Cases_FormPage"
+        }
+      ]
+    }
+  ]
+}

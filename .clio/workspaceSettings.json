@@ -1,0 +1,26 @@
+{
+  "Packages": [
+    "UsrApp_56c2pjc",
+    "CrtCase7x",
+    "CrtCaseManagmentObject",
+    "CrtCustomerInfoInCaseMgmt",
+    "CrtSLM",
+    "MLCaseClassification",
+    "CrtCaseKnowledgeCopilot",
+    "CrtEmailMessage",
+    "CrtCaseService",
+    "CrtJunkFilter",
+    "CrtSLM7x",
+    "MLSimilarCaseSearch",
+    "CrtCaseCopilot",
+    "CrtCaseManagement",
+    "CrtCaseService7x",
+    "CrtPortal",
+    "CrtSLMITILService",
+    "CrtCaseManagementApp",
+    "CrtCasesInC360",
+    "CrtSLAInC360",
+    "CrtSLMITILService7x"
+  ],
+  "ApplicationVersion": "8.1.3"
+}

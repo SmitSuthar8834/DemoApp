@@ -1,0 +1,2042 @@
+{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "ProcessSchemaManager",
+      "UId": "af4ab872-b506-4546-ad90-c9425f44ca53",
+      "A2": "UsrProcess_37e6c13",
+      "A5": "ad2d79f6-cfd3-45db-811f-563d397846cd",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "2ef9c21b-939d-4e9a-ae27-bc5ee59b5957",
+      "B8": "8.1.4.2889",
+      "FJ1": [
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+          "UId": "051878da-f6bd-4fc5-8e44-15807de984de",
+          "A2": "Contact",
+          "A3": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "A4": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "L1": "23018567-a13c-4320-8687-fd6f9e3699bd",
+          "L8": {
+            "GS5": "af4ab872-b506-4546-ad90-c9425f44ca53"
+          }
+        }
+      ],
+      "IJ1": true,
+      "BK8": "bb4d6607-026b-4b27-b640-8f5c77c1e89d",
+      "IJ8": true,
+      "IJ10": true,
+      "BK15": [
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaMapping",
+          "UId": "d9b23cf2-d4f4-434c-b7d1-f314702d1407",
+          "A2": "ReadDataUserTask1",
+          "A3": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "A4": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "GT2": "[Element:{bd696ba9-8680-4fc1-9890-d6440169684d}].[Parameter:{fbbf5707-123b-4218-b0d0-033d7b5caf79}]",
+          "GT3": "fbbf5707-123b-4218-b0d0-033d7b5caf79",
+          "GT5": "5d9ac9a7-7782-49ce-8990-dcb1c73832b0",
+          "GT4": "cb455b6f-78ff-4b1e-b241-c2bbc0b37e9f",
+          "GT1": {
+            "GS1": 1,
+            "GS2": "{\"className\":\"Terrasoft.FilterGroup\",\"serializedFilterEditData\":\"{\\\"className\\\":\\\"Terrasoft.FilterGroup\\\",\\\"items\\\":{\\\"d953d599-2691-42bd-9ffd-7eeb6b2bd68f\\\":{\\\"className\\\":\\\"Terrasoft.CompareFilter\\\",\\\"filterType\\\":1,\\\"comparisonType\\\":3,\\\"isEnabled\\\":true,\\\"trimDateTimeParameterToDate\\\":false,\\\"leftExpression\\\":{\\\"className\\\":\\\"Terrasoft.ColumnExpression\\\",\\\"expressionType\\\":0,\\\"columnPath\\\":\\\"Id\\\"},\\\"isAggregative\\\":false,\\\"key\\\":\\\"d953d599-2691-42bd-9ffd-7eeb6b2bd68f\\\",\\\"dataValueType\\\":0,\\\"leftExpressionCaption\\\":\\\"Id\\\",\\\"rightExpression\\\":{\\\"className\\\":\\\"Terrasoft.ParameterExpression\\\",\\\"expressionType\\\":2,\\\"parameter\\\":{\\\"className\\\":\\\"Terrasoft.Parameter\\\",\\\"dataValueType\\\":26,\\\"value\\\":{\\\"value\\\":\\\"[IsOwnerSchema:false].[IsSchema:false].[Parameter:{051878da-f6bd-4fc5-8e44-15807de984de}]\\\",\\\"displayValue\\\":\\\"Contact\\\"}}}}},\\\"logicalOperation\\\":0,\\\"isEnabled\\\":true,\\\"filterType\\\":6,\\\"rootSchemaName\\\":\\\"Contact\\\",\\\"key\\\":\\\"\\\"}\",\"dataSourceFilters\":\"{\\\"items\\\":{\\\"d953d599-2691-42bd-9ffd-7eeb6b2bd68f\\\":{\\\"filterType\\\":1,\\\"comparisonType\\\":3,\\\"isEnabled\\\":true,\\\"trimDateTimeParameterToDate\\\":false,\\\"leftExpression\\\":{\\\"expressionType\\\":0,\\\"columnPath\\\":\\\"Id\\\"},\\\"rightExpression\\\":{\\\"expressionType\\\":2,\\\"parameter\\\":{\\\"dataValueType\\\":26,\\\"value\\\":{\\\"value\\\":\\\"[IsOwnerSchema:false].[IsSchema:false].[Parameter:{051878da-f6bd-4fc5-8e44-15807de984de}]\\\"}}}}},\\\"logicalOperation\\\":0,\\\"isEnabled\\\":true,\\\"filterType\\\":6,\\\"rootSchemaName\\\":\\\"Contact\\\"}\"}"
+          }
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaMapping",
+          "UId": "159c1550-280f-47be-a374-156ea8936dc8",
+          "A2": "ReadDataUserTask1",
+          "A3": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "A4": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "GT2": "[Element:{bd696ba9-8680-4fc1-9890-d6440169684d}].[Parameter:{2f9c3d6d-bca6-4a85-98f7-b1bd28c23183}]",
+          "GT3": "2f9c3d6d-bca6-4a85-98f7-b1bd28c23183",
+          "GT5": "643e4d6d-7ec8-49f0-842a-066a996fbe8b",
+          "GT4": "cb455b6f-78ff-4b1e-b241-c2bbc0b37e9f",
+          "GT1": {
+            "GS1": 1,
+            "GS2": "0",
+            "GS5": "cb455b6f-78ff-4b1e-b241-c2bbc0b37e9f"
+          }
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaMapping",
+          "UId": "09ac5a7b-7260-49ee-8135-9547a127a578",
+          "A2": "ReadDataUserTask1",
+          "A3": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "A4": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "GT2": "[Element:{bd696ba9-8680-4fc1-9890-d6440169684d}].[Parameter:{c59dc332-1841-4b2f-869b-7b1627a74186}]",
+          "GT3": "c59dc332-1841-4b2f-869b-7b1627a74186",
+          "GT5": "29115add-7520-4ad4-8371-d91f537ac913",
+          "GT4": "cb455b6f-78ff-4b1e-b241-c2bbc0b37e9f",
+          "GT1": {
+            "GS1": 1,
+            "GS2": "true"
+          }
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaMapping",
+          "UId": "f4e9bf51-ba26-463b-bfd4-a4bbf89c9c51",
+          "A2": "ReadDataUserTask1",
+          "A3": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "A4": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "GT2": "[Element:{bd696ba9-8680-4fc1-9890-d6440169684d}].[Parameter:{6b3c20be-2d3f-445d-a09c-d44be010c66a}]",
+          "GT3": "6b3c20be-2d3f-445d-a09c-d44be010c66a",
+          "GT5": "f29e5660-c5ef-4d84-8331-9046c3093519",
+          "GT4": "cb455b6f-78ff-4b1e-b241-c2bbc0b37e9f",
+          "GT1": {
+            "GS1": 1,
+            "GS2": "50"
+          }
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaMapping",
+          "UId": "1e506fab-201c-494a-8781-6c6ba7dbb01c",
+          "A2": "ReadDataUserTask1",
+          "A3": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "A4": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "GT2": "[Element:{bd696ba9-8680-4fc1-9890-d6440169684d}].[Parameter:{81c14666-56d2-45b3-8ae2-4be5f920e9b0}]",
+          "GT3": "81c14666-56d2-45b3-8ae2-4be5f920e9b0",
+          "GT5": "94ba9876-18c1-4a68-bcef-08f7e7f0e25c",
+          "GT4": "cb455b6f-78ff-4b1e-b241-c2bbc0b37e9f",
+          "GT1": {
+            "GS1": 1,
+            "GS2": "0"
+          }
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaMapping",
+          "UId": "19b1de5e-42c8-426e-85d4-7d324b9db8bb",
+          "A2": "ReadDataUserTask1",
+          "A3": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "A4": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "GT2": "[Element:{bd696ba9-8680-4fc1-9890-d6440169684d}].[Parameter:{844e0ae8-084d-443e-bf8e-aa485a78b406}]",
+          "GT3": "844e0ae8-084d-443e-bf8e-aa485a78b406",
+          "GT5": "cb5d6d26-7e81-4cbe-8730-8b7169000d14",
+          "GT4": "cb455b6f-78ff-4b1e-b241-c2bbc0b37e9f",
+          "GT1": {}
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaMapping",
+          "UId": "133caf34-71ac-4e43-8fcb-92581b168c65",
+          "A2": "ReadDataUserTask1",
+          "A3": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "A4": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "GT2": "[Element:{bd696ba9-8680-4fc1-9890-d6440169684d}].[Parameter:{0d87bec6-e509-4edf-aed8-a9eec764018c}]",
+          "GT3": "0d87bec6-e509-4edf-aed8-a9eec764018c",
+          "GT5": "473e79e2-727e-40a7-8829-7eefc576b403",
+          "GT4": "cb455b6f-78ff-4b1e-b241-c2bbc0b37e9f",
+          "GT1": {
+            "GS1": 1,
+            "GS2": "Name:1:1"
+          }
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaMapping",
+          "UId": "5b170798-41aa-4f98-90e9-f0f267df8699",
+          "A2": "ReadDataUserTask1",
+          "A3": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "A4": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "GT2": "[Element:{bd696ba9-8680-4fc1-9890-d6440169684d}].[Parameter:{56f8fad8-59ed-4f79-bd21-cf10f5a5ec0e}]",
+          "GT3": "56f8fad8-59ed-4f79-bd21-cf10f5a5ec0e",
+          "GT5": "e2fced10-4842-423e-ada0-523bf7ea8ad3",
+          "GT4": "cb455b6f-78ff-4b1e-b241-c2bbc0b37e9f",
+          "GT1": {
+            "GS1": 1
+          }
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaMapping",
+          "UId": "baff634b-7bcc-4a3d-902c-7c566321fa91",
+          "A2": "ReadDataUserTask1",
+          "A3": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "A4": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "GT2": "[Element:{bd696ba9-8680-4fc1-9890-d6440169684d}].[Parameter:{d43aeb82-c7c1-4603-8a05-b9f8acd94d80}]",
+          "GT3": "d43aeb82-c7c1-4603-8a05-b9f8acd94d80",
+          "GT5": "2e63ea99-8125-4254-88bd-20d3610bd471",
+          "GT4": "cb455b6f-78ff-4b1e-b241-c2bbc0b37e9f",
+          "GT1": {}
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaMapping",
+          "UId": "91503315-422f-4109-b00c-fe03e59a7f66",
+          "A2": "ReadDataUserTask1",
+          "A3": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "A4": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "GT2": "[Element:{bd696ba9-8680-4fc1-9890-d6440169684d}].[Parameter:{f1cfe1c3-1b48-45a4-830c-ecd6fcfd3890}]",
+          "GT3": "f1cfe1c3-1b48-45a4-830c-ecd6fcfd3890",
+          "GT5": "a3660fce-a8f9-4a68-a3c1-b4f2f7983635",
+          "GT4": "cb455b6f-78ff-4b1e-b241-c2bbc0b37e9f",
+          "GT1": {}
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaMapping",
+          "UId": "7653ae82-8d1d-4406-992f-dde6eacbb506",
+          "A2": "ReadDataUserTask1",
+          "A3": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "A4": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "GT2": "[Element:{bd696ba9-8680-4fc1-9890-d6440169684d}].[Parameter:{3dfd2af8-e0b4-4086-8573-95e9d402b972}]",
+          "GT3": "3dfd2af8-e0b4-4086-8573-95e9d402b972",
+          "GT5": "9a594933-75da-4304-b6a3-5945dba159e3",
+          "GT4": "cb455b6f-78ff-4b1e-b241-c2bbc0b37e9f",
+          "GT1": {}
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaMapping",
+          "UId": "e96b9f65-6d65-4c1d-8134-06bf5d1b59ae",
+          "A2": "ReadDataUserTask1",
+          "A3": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "A4": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "GT2": "[Element:{bd696ba9-8680-4fc1-9890-d6440169684d}].[Parameter:{e79607c1-a119-4b49-b9a4-99d79ecb34cd}]",
+          "GT3": "e79607c1-a119-4b49-b9a4-99d79ecb34cd",
+          "GT5": "11fb235f-c06a-4111-84cd-a5dbf9a440d5",
+          "GT4": "cb455b6f-78ff-4b1e-b241-c2bbc0b37e9f",
+          "GT1": {}
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaMapping",
+          "UId": "e710356d-4ef4-4713-8070-379666329239",
+          "A2": "ReadDataUserTask1",
+          "A3": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "A4": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "GT2": "[Element:{bd696ba9-8680-4fc1-9890-d6440169684d}].[Parameter:{ee8fa3af-f6a1-4d7a-b1de-308e09840cef}]",
+          "GT3": "ee8fa3af-f6a1-4d7a-b1de-308e09840cef",
+          "GT5": "78252e95-b759-416a-9c48-c128fbdf59ef",
+          "GT4": "cb455b6f-78ff-4b1e-b241-c2bbc0b37e9f",
+          "GT1": {}
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaMapping",
+          "UId": "4fd43b4f-0f9c-456b-ba32-fc8514c7419a",
+          "A2": "ReadDataUserTask1",
+          "A3": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "A4": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "GT2": "[Element:{bd696ba9-8680-4fc1-9890-d6440169684d}].[Parameter:{260becc6-0f52-4439-9760-0e788f9c751f}]",
+          "GT3": "260becc6-0f52-4439-9760-0e788f9c751f",
+          "GT5": "2f797429-6f43-4594-96bb-62fbc7b7deec",
+          "GT4": "cb455b6f-78ff-4b1e-b241-c2bbc0b37e9f",
+          "GT1": {
+            "GS1": 1,
+            "GS2": "true",
+            "GS5": "cb455b6f-78ff-4b1e-b241-c2bbc0b37e9f"
+          }
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaMapping",
+          "UId": "a2d6e2c1-9459-4c7c-8de7-ad506f575340",
+          "A2": "ReadDataUserTask1",
+          "A3": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "A4": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "GT2": "[Element:{bd696ba9-8680-4fc1-9890-d6440169684d}].[Parameter:{3300e326-98e1-4467-9ff0-7b61db415a0d}]",
+          "GT3": "3300e326-98e1-4467-9ff0-7b61db415a0d",
+          "GT5": "be4a0d16-6a15-41cf-ac44-a8b757565428",
+          "GT4": "cb455b6f-78ff-4b1e-b241-c2bbc0b37e9f",
+          "GT1": {}
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaMapping",
+          "UId": "b4d55941-b91d-4d15-bb30-8a469e525ce5",
+          "A2": "ReadDataUserTask1",
+          "A3": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "A4": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "GT2": "[Element:{bd696ba9-8680-4fc1-9890-d6440169684d}].[Parameter:{0532a84d-1025-42cd-9b5a-065825db1260}]",
+          "GT3": "0532a84d-1025-42cd-9b5a-065825db1260",
+          "GT5": "cc12005f-f434-4a40-b9d0-dc8f81755545",
+          "GT4": "cb455b6f-78ff-4b1e-b241-c2bbc0b37e9f",
+          "GT1": {}
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaMapping",
+          "UId": "31c4a9be-808b-4d87-99f2-b70c59ba7797",
+          "A2": "ReadDataUserTask1",
+          "A3": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "A4": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "GT2": "[Element:{bd696ba9-8680-4fc1-9890-d6440169684d}].[Parameter:{1619a6a7-4903-4c77-ad80-ce6d8bb46e39}]",
+          "GT3": "1619a6a7-4903-4c77-ad80-ce6d8bb46e39",
+          "GT5": "6dada847-859b-4e0a-9297-b3c9572530b6",
+          "GT4": "cb455b6f-78ff-4b1e-b241-c2bbc0b37e9f",
+          "GT1": {}
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaMapping",
+          "UId": "459fea4b-c321-43b2-b6e8-76cd168fe730",
+          "A2": "ReadDataUserTask1",
+          "A3": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "A4": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "GT2": "[Element:{bd696ba9-8680-4fc1-9890-d6440169684d}].[Parameter:{34419302-1c56-42d5-9b6a-aed11baf0fc5}]",
+          "GT3": "34419302-1c56-42d5-9b6a-aed11baf0fc5",
+          "GT5": "555901ef-f707-4803-a887-1bc07e882096",
+          "GT4": "cb455b6f-78ff-4b1e-b241-c2bbc0b37e9f",
+          "GT1": {}
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaMapping",
+          "UId": "8b3e576d-0d21-4a9d-9744-2dac1056174e",
+          "A2": "ReadDataUserTask1",
+          "A3": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "A4": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "GT2": "[Element:{bd696ba9-8680-4fc1-9890-d6440169684d}].[Parameter:{5945e18a-b215-4ef5-a2ee-185e8475ad67}]",
+          "GT3": "5945e18a-b215-4ef5-a2ee-185e8475ad67",
+          "GT5": "978b550e-1b81-448a-8700-9c9190c3a2a4",
+          "GT4": "cb455b6f-78ff-4b1e-b241-c2bbc0b37e9f",
+          "GT1": {
+            "GS1": 3,
+            "GS2": "true",
+            "GS5": "cb455b6f-78ff-4b1e-b241-c2bbc0b37e9f",
+            "GS8": "false"
+          }
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaMapping",
+          "UId": "52c05d8d-03d6-4504-ae0a-b5e421f1e5b0",
+          "A2": "EmailTemplateUserTask1",
+          "A3": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "A4": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "GT2": "[Element:{6fa5567d-6635-4ca8-b62d-f4c7bab6858a}].[Parameter:{7282c9a7-d59c-454c-9165-c3f262b5b5f8}]",
+          "GT3": "7282c9a7-d59c-454c-9165-c3f262b5b5f8",
+          "GT5": "0222ed95-9f70-49d7-8d75-e219a7cc47d2",
+          "GT4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+          "GT1": {
+            "GS1": 1,
+            "GS2": ""
+          }
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaMapping",
+          "UId": "6fa64102-0447-46d1-944a-3b59d5effbc1",
+          "A2": "EmailTemplateUserTask1",
+          "A3": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "A4": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "GT2": "[Element:{6fa5567d-6635-4ca8-b62d-f4c7bab6858a}].[Parameter:{4b416dd7-f8e7-4672-8bf9-17b5b70482ce}]",
+          "GT3": "4b416dd7-f8e7-4672-8bf9-17b5b70482ce",
+          "GT5": "5d4e5f6b-3859-465c-9009-ab954203ddba",
+          "GT4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+          "GT1": {
+            "GS1": 3,
+            "GS2": "[#Lookup.961e2086-a12b-4d27-b095-40b1e64d6cc0.8038a396-7825-e011-8165-00155d043204#]",
+            "GS5": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19"
+          }
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaMapping",
+          "UId": "82504dea-6e4f-4765-aee8-8a5cfd0a9a26",
+          "A2": "EmailTemplateUserTask1",
+          "A3": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "A4": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "GT2": "[Element:{6fa5567d-6635-4ca8-b62d-f4c7bab6858a}].[Parameter:{015102ed-b580-4d1d-9783-d7f1a054ec33}]",
+          "GT3": "015102ed-b580-4d1d-9783-d7f1a054ec33",
+          "GT5": "c607553c-af04-4d5a-9be3-52d2289ed1bb",
+          "GT4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+          "GT1": {}
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaMapping",
+          "UId": "b6c07aec-a635-439b-a107-2082e03e0459",
+          "A2": "EmailTemplateUserTask1",
+          "A3": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "A4": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "GT2": "[Element:{6fa5567d-6635-4ca8-b62d-f4c7bab6858a}].[Parameter:{1d1f7f31-4df7-4383-99ee-98571def0dd5}]",
+          "GT3": "1d1f7f31-4df7-4383-99ee-98571def0dd5",
+          "GT5": "4e951b83-3f3a-4f07-84db-c18a37ff1cb4",
+          "GT4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+          "GT1": {
+            "GS1": 1,
+            "GS2": "5",
+            "GS5": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19"
+          }
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaMapping",
+          "UId": "1dc895be-2a29-45ba-9ac7-0c09cecfa296",
+          "A2": "EmailTemplateUserTask1",
+          "A3": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "A4": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "GT2": "[Element:{6fa5567d-6635-4ca8-b62d-f4c7bab6858a}].[Parameter:{b1ff04f6-b191-45ab-ba4b-6185ab740ae6}]",
+          "GT3": "b1ff04f6-b191-45ab-ba4b-6185ab740ae6",
+          "GT5": "5ba4fe85-fe56-41a8-bb7a-b6eb9cb7b0b3",
+          "GT4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+          "GT1": {
+            "GS1": 1,
+            "GS2": "0",
+            "GS5": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19"
+          }
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaMapping",
+          "UId": "99e0a58a-3588-4322-9e7c-2d18671dc157",
+          "A2": "EmailTemplateUserTask1",
+          "A3": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "A4": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "GT2": "[Element:{6fa5567d-6635-4ca8-b62d-f4c7bab6858a}].[Parameter:{fc750af8-393d-4a63-8298-b0fa3098ba7a}]",
+          "GT3": "fc750af8-393d-4a63-8298-b0fa3098ba7a",
+          "GT5": "9a04bd1e-135d-41a8-ace4-573cecc38492",
+          "GT4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+          "GT1": {
+            "GS1": 1,
+            "GS2": "0",
+            "GS5": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19"
+          }
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaMapping",
+          "UId": "5ee819fd-2af2-4911-85fa-5d7ffd5a5d7b",
+          "A2": "EmailTemplateUserTask1",
+          "A3": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "A4": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "GT2": "[Element:{6fa5567d-6635-4ca8-b62d-f4c7bab6858a}].[Parameter:{091b9e85-12d4-4715-a51e-db3190e33126}]",
+          "GT3": "091b9e85-12d4-4715-a51e-db3190e33126",
+          "GT5": "aa8c62b7-1e23-42c3-9f6f-12d00fdd649f",
+          "GT4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+          "GT1": {
+            "GS1": 1,
+            "GS2": "0",
+            "GS5": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19"
+          }
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaMapping",
+          "UId": "44099c03-1782-48a5-8112-d8f69d2f60f4",
+          "A2": "EmailTemplateUserTask1",
+          "A3": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "A4": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "GT2": "[Element:{6fa5567d-6635-4ca8-b62d-f4c7bab6858a}].[Parameter:{8744de25-8b22-4c0c-b65f-5260c7bd93d9}]",
+          "GT3": "8744de25-8b22-4c0c-b65f-5260c7bd93d9",
+          "GT5": "ea9fa37f-9983-4da4-a42a-33258432ee3c",
+          "GT4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+          "GT1": {
+            "GS1": 1,
+            "GS2": "0",
+            "GS5": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19"
+          }
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaMapping",
+          "UId": "29454479-e34a-4c59-9b6c-b978ace90cf1",
+          "A2": "EmailTemplateUserTask1",
+          "A3": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "A4": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "GT2": "[Element:{6fa5567d-6635-4ca8-b62d-f4c7bab6858a}].[Parameter:{574fdbc6-dfc6-4b28-9db2-d545615c36c7}]",
+          "GT3": "574fdbc6-dfc6-4b28-9db2-d545615c36c7",
+          "GT5": "8141d6fd-9d55-455b-a28f-7cdf7e0c965b",
+          "GT4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+          "GT1": {
+            "GS1": 1,
+            "GS2": "0",
+            "GS5": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19"
+          }
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaMapping",
+          "UId": "04f2130c-1d49-4037-be63-4f6fcdf39d21",
+          "A2": "EmailTemplateUserTask1",
+          "A3": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "A4": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "GT2": "[Element:{6fa5567d-6635-4ca8-b62d-f4c7bab6858a}].[Parameter:{1d59c8ac-a188-4ebc-9a9f-b0f0fbe8abbe}]",
+          "GT3": "1d59c8ac-a188-4ebc-9a9f-b0f0fbe8abbe",
+          "GT5": "597c84ef-46ad-4061-a400-e2a212632562",
+          "GT4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+          "GT1": {
+            "GS1": 1,
+            "GS2": "False",
+            "GS5": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19"
+          }
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaMapping",
+          "UId": "d5718094-fafd-47f3-a918-430fdc5ed473",
+          "A2": "EmailTemplateUserTask1",
+          "A3": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "A4": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "GT2": "[Element:{6fa5567d-6635-4ca8-b62d-f4c7bab6858a}].[Parameter:{1b259112-57e6-4f5f-a69c-d8df4acce0a1}]",
+          "GT3": "1b259112-57e6-4f5f-a69c-d8df4acce0a1",
+          "GT5": "0ebcc14f-e89c-4c15-be9f-435687de293d",
+          "GT4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+          "GT1": {
+            "GS1": 1,
+            "GS2": "true",
+            "GS5": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19"
+          }
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaMapping",
+          "UId": "0d3e35cd-a07d-4375-893c-d6353dfb6929",
+          "A2": "EmailTemplateUserTask1",
+          "A3": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "A4": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "GT2": "[Element:{6fa5567d-6635-4ca8-b62d-f4c7bab6858a}].[Parameter:{aa45aefb-94a5-4a6c-a3f2-27c7f01717b0}]",
+          "GT3": "aa45aefb-94a5-4a6c-a3f2-27c7f01717b0",
+          "GT5": "5273dca7-70cb-4dd7-a4b9-122892cb2eb1",
+          "GT4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+          "GT1": {}
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaMapping",
+          "UId": "168413bb-c6ba-4558-8159-97595c393a84",
+          "A2": "EmailTemplateUserTask1",
+          "A3": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "A4": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "GT2": "[Element:{6fa5567d-6635-4ca8-b62d-f4c7bab6858a}].[Parameter:{6e05e9f1-49ca-44ad-a0ff-771ee1e4a8b6}]",
+          "GT3": "6e05e9f1-49ca-44ad-a0ff-771ee1e4a8b6",
+          "GT5": "13c9aa2d-f118-4c69-bcc2-626174702f48",
+          "GT4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+          "GT1": {}
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaMapping",
+          "UId": "eda02f47-0a2c-4105-a416-9bf2d5fdbcf8",
+          "A2": "EmailTemplateUserTask1",
+          "A3": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "A4": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "GT2": "[Element:{6fa5567d-6635-4ca8-b62d-f4c7bab6858a}].[Parameter:{737fa1db-7911-4baa-bd82-4013dee75f6c}]",
+          "GT3": "737fa1db-7911-4baa-bd82-4013dee75f6c",
+          "GT5": "6eaedb21-2322-49f9-bae0-793620616856",
+          "GT4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+          "GT1": {}
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaMapping",
+          "UId": "bd5b3abe-70a1-45d6-9461-ee5b0c167a7a",
+          "A2": "EmailTemplateUserTask1",
+          "A3": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "A4": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "GT2": "[Element:{6fa5567d-6635-4ca8-b62d-f4c7bab6858a}].[Parameter:{28764729-daf2-4aca-95db-165aaad53248}]",
+          "GT3": "28764729-daf2-4aca-95db-165aaad53248",
+          "GT5": "7db0c409-fdf5-404c-87ea-c31f2e334528",
+          "GT4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+          "GT1": {}
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaMapping",
+          "UId": "e31486c3-4f44-430d-9778-f602749a3e26",
+          "A2": "EmailTemplateUserTask1",
+          "A3": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "A4": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "GT2": "[Element:{6fa5567d-6635-4ca8-b62d-f4c7bab6858a}].[Parameter:{6d720df4-e333-49cb-8c64-6f7cf874dc24}]",
+          "GT3": "6d720df4-e333-49cb-8c64-6f7cf874dc24",
+          "GT5": "7590bd23-7352-46a0-8b0b-80237b699da1",
+          "GT4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+          "GT1": {}
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaMapping",
+          "UId": "92648577-4593-483f-9d84-8dd5a44e5e44",
+          "A2": "EmailTemplateUserTask1",
+          "A3": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "A4": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "GT2": "[Element:{6fa5567d-6635-4ca8-b62d-f4c7bab6858a}].[Parameter:{0a4e28f0-0076-43b9-bd56-8365f14b4b21}]",
+          "GT3": "0a4e28f0-0076-43b9-bd56-8365f14b4b21",
+          "GT5": "7de5dab3-4224-4615-8e8b-f7de0ffbba7e",
+          "GT4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+          "GT1": {}
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaMapping",
+          "UId": "7194322c-6602-4b71-b5b8-d7b4b0348dc7",
+          "A2": "EmailTemplateUserTask1",
+          "A3": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "A4": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "GT2": "[Element:{6fa5567d-6635-4ca8-b62d-f4c7bab6858a}].[Parameter:{081a9c97-becf-414a-bb4c-61e4221bc2d6}]",
+          "GT3": "081a9c97-becf-414a-bb4c-61e4221bc2d6",
+          "GT5": "2e4cbd70-f7b5-4144-9b71-cd3ce531bdb2",
+          "GT4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+          "GT1": {}
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaMapping",
+          "UId": "4e152990-bfd3-4a67-aa9a-726ff40bc435",
+          "A2": "EmailTemplateUserTask1",
+          "A3": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "A4": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "GT2": "[Element:{6fa5567d-6635-4ca8-b62d-f4c7bab6858a}].[Parameter:{81c7be5c-ddbb-4c39-8c52-2bc9073be4ca}]",
+          "GT3": "81c7be5c-ddbb-4c39-8c52-2bc9073be4ca",
+          "GT5": "560a6088-1e48-497f-a31c-fc2763015bd5",
+          "GT4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+          "GT1": {}
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaMapping",
+          "UId": "7158ddb1-2e55-47c1-a4d2-a4d00d5896e3",
+          "A2": "EmailTemplateUserTask1",
+          "A3": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "A4": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "GT2": "[Element:{6fa5567d-6635-4ca8-b62d-f4c7bab6858a}].[Parameter:{f0568e7a-5eee-462d-8fba-e0812da95f35}]",
+          "GT3": "f0568e7a-5eee-462d-8fba-e0812da95f35",
+          "GT5": "865a3d6a-4bc6-41f2-b816-1491c67d8cfe",
+          "GT4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+          "GT1": {}
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaMapping",
+          "UId": "37b3515c-4e0f-40bc-8708-402ad9b0ee0d",
+          "A2": "EmailTemplateUserTask1",
+          "A3": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "A4": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "GT2": "[Element:{6fa5567d-6635-4ca8-b62d-f4c7bab6858a}].[Parameter:{ab669aa8-1183-4048-b723-b4974ba9bb9f}]",
+          "GT3": "ab669aa8-1183-4048-b723-b4974ba9bb9f",
+          "GT5": "66b32bce-fc66-441c-9439-1248771b01ac",
+          "GT4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+          "GT1": {}
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaMapping",
+          "UId": "cea58485-c6fb-448c-8bec-5861d42556fd",
+          "A2": "EmailTemplateUserTask1",
+          "A3": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "A4": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "GT2": "[Element:{6fa5567d-6635-4ca8-b62d-f4c7bab6858a}].[Parameter:{0654e081-456d-4eb1-8618-8039c69842a6}]",
+          "GT3": "0654e081-456d-4eb1-8618-8039c69842a6",
+          "GT5": "a8926541-c304-4ee3-901d-7d417a82c368",
+          "GT4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+          "GT1": {}
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaMapping",
+          "UId": "03798ae6-4dc2-430d-9d50-20b150e31a3b",
+          "A2": "EmailTemplateUserTask1",
+          "A3": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "A4": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "GT2": "[Element:{6fa5567d-6635-4ca8-b62d-f4c7bab6858a}].[Parameter:{f0b57c72-7e36-40f9-b8e1-493d80d48392}]",
+          "GT3": "f0b57c72-7e36-40f9-b8e1-493d80d48392",
+          "GT5": "0459be9f-de4f-4674-8c67-87cc7d2d0419",
+          "GT4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+          "GT1": {}
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaMapping",
+          "UId": "4a5ffa6d-8734-4e5b-a716-0a2a76d231db",
+          "A2": "EmailTemplateUserTask1",
+          "A3": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "A4": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "GT2": "[Element:{6fa5567d-6635-4ca8-b62d-f4c7bab6858a}].[Parameter:{105d97b5-382c-41d0-bb9e-6d6ea7b70137}]",
+          "GT3": "105d97b5-382c-41d0-bb9e-6d6ea7b70137",
+          "GT5": "addfa63c-9ff3-4256-b226-2905a0f6c475",
+          "GT4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+          "GT1": {}
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaMapping",
+          "UId": "d23727c7-6cc9-419a-bd7e-8673b7cea54a",
+          "A2": "EmailTemplateUserTask1",
+          "A3": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "A4": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "GT2": "[Element:{6fa5567d-6635-4ca8-b62d-f4c7bab6858a}].[Parameter:{9b62692e-b344-4389-a765-d4493cf90697}]",
+          "GT3": "9b62692e-b344-4389-a765-d4493cf90697",
+          "GT5": "c37dbb20-6ed1-4699-ace1-e0a88b5bfd44",
+          "GT4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+          "GT1": {}
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaMapping",
+          "UId": "8544bc58-b4bc-499e-a51b-fac353e45001",
+          "A2": "EmailTemplateUserTask1",
+          "A3": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "A4": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "GT2": "[Element:{6fa5567d-6635-4ca8-b62d-f4c7bab6858a}].[Parameter:{caa4835c-a9c1-49b8-90a1-5b5e3fd17330}]",
+          "GT3": "caa4835c-a9c1-49b8-90a1-5b5e3fd17330",
+          "GT5": "529ab2fb-59d7-4de0-bee6-0a0b9b7f79da",
+          "GT4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+          "GT1": {}
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaMapping",
+          "UId": "c4b4aff1-0182-469d-8132-bdcb81847448",
+          "A2": "EmailTemplateUserTask1",
+          "A3": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "A4": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "GT2": "[Element:{6fa5567d-6635-4ca8-b62d-f4c7bab6858a}].[Parameter:{c19de5cb-902e-4a9e-b642-19103d314c7c}]",
+          "GT3": "c19de5cb-902e-4a9e-b642-19103d314c7c",
+          "GT5": "f12f023b-dbb0-494b-acab-d2f2869eb396",
+          "GT4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+          "GT1": {}
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaMapping",
+          "UId": "0f852afc-747a-4195-972c-c580b473c2c8",
+          "A2": "EmailTemplateUserTask1",
+          "A3": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "A4": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "GT2": "[Element:{6fa5567d-6635-4ca8-b62d-f4c7bab6858a}].[Parameter:{72e059ad-0844-445d-9069-15bcb1a789d8}]",
+          "GT3": "72e059ad-0844-445d-9069-15bcb1a789d8",
+          "GT5": "67d97045-ecbb-4960-bf0c-47c0bf70dd6a",
+          "GT4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+          "GT1": {}
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaMapping",
+          "UId": "ff5943ce-bf4c-4e62-bc15-780b60234564",
+          "A2": "EmailTemplateUserTask1",
+          "A3": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "A4": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "GT2": "[Element:{6fa5567d-6635-4ca8-b62d-f4c7bab6858a}].[Parameter:{9d7eaf40-c742-4056-8573-887ab5137cee}]",
+          "GT3": "9d7eaf40-c742-4056-8573-887ab5137cee",
+          "GT5": "39b0b2dc-8756-4724-875e-7a09ae726f2f",
+          "GT4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+          "GT1": {}
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaMapping",
+          "UId": "e94a9eca-88ad-4d73-8c96-55fbd9aa5ffc",
+          "A2": "EmailTemplateUserTask1",
+          "A3": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "A4": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "GT2": "[Element:{6fa5567d-6635-4ca8-b62d-f4c7bab6858a}].[Parameter:{58ab0da1-c283-4392-9ba8-79d4f180df98}]",
+          "GT3": "58ab0da1-c283-4392-9ba8-79d4f180df98",
+          "GT5": "0141e241-8397-41dd-892c-206f7ff195dd",
+          "GT4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+          "GT1": {}
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaMapping",
+          "UId": "b6576203-61a7-4a9b-8dff-24b893123668",
+          "A2": "EmailTemplateUserTask1",
+          "A3": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "A4": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "GT2": "[Element:{6fa5567d-6635-4ca8-b62d-f4c7bab6858a}].[Parameter:{c54d06ab-9768-4477-a2d4-c4ab544a7dd6}]",
+          "GT3": "c54d06ab-9768-4477-a2d4-c4ab544a7dd6",
+          "GT5": "ddbadd8c-4432-4fba-8571-966bf8875805",
+          "GT4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+          "GT1": {}
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaMapping",
+          "UId": "ecc74dc4-da01-42b3-9f5a-c8cdc60c5c6e",
+          "A2": "EmailTemplateUserTask1",
+          "A3": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "A4": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "GT2": "[Element:{6fa5567d-6635-4ca8-b62d-f4c7bab6858a}].[Parameter:{4371a2db-7bfd-4826-a5e2-2db9033fa6a1}]",
+          "GT3": "4371a2db-7bfd-4826-a5e2-2db9033fa6a1",
+          "GT5": "2b2f8115-6d2a-4027-95b9-77a8d2f25b5c",
+          "GT4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+          "GT1": {}
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaMapping",
+          "UId": "52384a64-41e5-4dec-b28a-a4ccc486b22b",
+          "A2": "EmailTemplateUserTask1",
+          "A3": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "A4": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "GT2": "[Element:{6fa5567d-6635-4ca8-b62d-f4c7bab6858a}].[Parameter:{be5a268c-2a04-4de9-85a5-42ccbab2a087}]",
+          "GT3": "be5a268c-2a04-4de9-85a5-42ccbab2a087",
+          "GT5": "7ce22bdc-e676-475f-a4dc-51bcc372b76d",
+          "GT4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+          "GT1": {}
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaMapping",
+          "UId": "6f72a192-5f4d-4525-98f5-5765f12afa2f",
+          "A2": "EmailTemplateUserTask1",
+          "A3": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "A4": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "GT2": "[Element:{6fa5567d-6635-4ca8-b62d-f4c7bab6858a}].[Parameter:{01bc7383-93bf-4f7e-aab8-081cc83f5608}]",
+          "GT3": "01bc7383-93bf-4f7e-aab8-081cc83f5608",
+          "GT5": "7bf99f91-0c7a-414a-a1cc-89f047b8d978",
+          "GT4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+          "GT1": {}
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaMapping",
+          "UId": "eff17f89-4e70-4450-b9a2-298a029cf754",
+          "A2": "EmailTemplateUserTask1",
+          "A3": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "A4": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "GT2": "[Element:{6fa5567d-6635-4ca8-b62d-f4c7bab6858a}].[Parameter:{42c826e8-1803-4bf0-bddc-e56ad38379a4}]",
+          "GT3": "42c826e8-1803-4bf0-bddc-e56ad38379a4",
+          "GT5": "dbbe08ab-3ea9-4104-9be8-8d76a7dfd2b3",
+          "GT4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+          "GT1": {
+            "GS1": 3,
+            "GS2": "[#Lookup.5e487721-02e2-48ee-b755-dfa5160f5315.ee847eaf-cc76-49ec-97df-beb76d7de30b#]"
+          }
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaMapping",
+          "UId": "8d0a7270-f757-42ca-a2c0-1f57aa2f678f",
+          "A2": "EmailTemplateUserTask1",
+          "A3": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "A4": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "GT2": "[Element:{6fa5567d-6635-4ca8-b62d-f4c7bab6858a}].[Parameter:{36e2ae00-7d8a-400b-a90c-63bd551b59ae}]",
+          "GT3": "36e2ae00-7d8a-400b-a90c-63bd551b59ae",
+          "GT5": "bcee98ff-66da-4a9f-b6c4-887247ec2e5b",
+          "GT4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+          "GT1": {
+            "GS1": 1,
+            "GS2": "1",
+            "GS5": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19"
+          }
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaMapping",
+          "UId": "d208378d-3f8f-479f-8fad-d699c2404cc8",
+          "A2": "EmailTemplateUserTask1",
+          "A3": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "A4": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "GT2": "[Element:{6fa5567d-6635-4ca8-b62d-f4c7bab6858a}].[Parameter:{47cfeb22-69c8-46f1-b054-68cabe3aa1e6}]",
+          "GT3": "47cfeb22-69c8-46f1-b054-68cabe3aa1e6",
+          "GT5": "c86fee83-f221-48e1-91af-b96730c70411",
+          "GT4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+          "GT1": {
+            "GS1": 1,
+            "GS2": "User Credentials"
+          }
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaMapping",
+          "UId": "e7b48b09-2f9d-4b6b-9c71-b9a1daac41f4",
+          "A2": "EmailTemplateUserTask1",
+          "A3": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "A4": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "GT2": "[Element:{6fa5567d-6635-4ca8-b62d-f4c7bab6858a}].[Parameter:{b108f4af-eed3-49fa-8bc2-b5ce53700733}]",
+          "GT3": "b108f4af-eed3-49fa-8bc2-b5ce53700733",
+          "GT5": "cd55806c-be67-452b-a729-3d51d37bfb5c",
+          "GT4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+          "GT1": {
+            "GS1": 1,
+            "GS2": "true",
+            "GS5": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19"
+          }
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaMapping",
+          "UId": "5d021fa2-0637-4181-9439-fe167227fcd1",
+          "A2": "EmailTemplateUserTask1",
+          "A3": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "A4": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "GT2": "[Element:{6fa5567d-6635-4ca8-b62d-f4c7bab6858a}].[Parameter:{5b3a44d6-8940-4fca-bc30-a6ef96da62d9}]",
+          "GT3": "5b3a44d6-8940-4fca-bc30-a6ef96da62d9",
+          "GT5": "781f088f-b617-47f9-bfce-7f7a759e1bef",
+          "GT4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+          "GT1": {
+            "GS1": 1,
+            "GS2": "0"
+          }
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaMapping",
+          "UId": "cc585e5a-eca6-4301-b146-c8e329f28f79",
+          "A2": "EmailTemplateUserTask1",
+          "A3": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "A4": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "GT2": "[Element:{6fa5567d-6635-4ca8-b62d-f4c7bab6858a}].[Parameter:{81c09dc7-8c62-43bc-b031-a929cb3fff2b}]",
+          "GT3": "81c09dc7-8c62-43bc-b031-a929cb3fff2b",
+          "GT5": "6ef6cd7d-c2cc-40de-984a-e0fad55ebf86",
+          "GT4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+          "GT1": {
+            "GS1": 1,
+            "GS2": "1"
+          }
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaMapping",
+          "UId": "9096c478-b424-4e97-a6fd-5b1ff786f1b3",
+          "A2": "EmailTemplateUserTask1",
+          "A3": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "A4": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "GT2": "[Element:{6fa5567d-6635-4ca8-b62d-f4c7bab6858a}].[Parameter:{a1665f04-9c7b-4234-b027-5f677c437846}]",
+          "GT3": "a1665f04-9c7b-4234-b027-5f677c437846",
+          "GT5": "6b992b79-6228-42d8-97a8-75e14f6f59cb",
+          "GT4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+          "GT1": {}
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaMapping",
+          "UId": "93be93b5-219e-4078-be37-63922aac1d0a",
+          "A2": "EmailTemplateUserTask1",
+          "A3": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "A4": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "GT2": "[Element:{6fa5567d-6635-4ca8-b62d-f4c7bab6858a}].[Parameter:{9a8b6c8f-4ab4-470d-bc0d-4b5a964948fe}]",
+          "GT3": "9a8b6c8f-4ab4-470d-bc0d-4b5a964948fe",
+          "GT5": "1e6be52c-a9d5-43c5-9fa8-f045f2842347",
+          "GT4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+          "GT1": {}
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaMapping",
+          "UId": "c86bac90-edf9-4acc-a078-aac12af73b83",
+          "A2": "EmailTemplateUserTask1",
+          "A3": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "A4": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "GT2": "[Element:{6fa5567d-6635-4ca8-b62d-f4c7bab6858a}].[Parameter:{a11bb8fa-0148-4783-b87f-9fb1438c938a}]",
+          "GT3": "a11bb8fa-0148-4783-b87f-9fb1438c938a",
+          "GT5": "54c88afb-c624-414b-8a0f-d0de606db991",
+          "GT4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+          "GT1": {
+            "GS1": 1,
+            "GS2": "<html xmlns=\"http://www.w3.org/1999/xhtml\"><head><title></title><!--[if !mso]><!--><!--<![endif]--><style type=\"text/css\">#outlook a { padding:0; }\n          body { margin:0;padding:0;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%; }\n          table, td { border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt; }\n          img { border:0;height:auto;line-height:100%; outline:none;text-decoration:none;-ms-interpolation-mode:bicubic; }\n          p { display:block;margin:13px 0; }</style><!--[if mso]>\n        <noscript>\n        <xml>\n        <o:OfficeDocumentSettings>\n          <o:AllowPNG/>\n          <o:PixelsPerInch>96</o:PixelsPerInch>\n        </o:OfficeDocumentSettings>\n        </xml>\n        </noscript>\n        <![endif]--><!--[if lte mso 11]>\n        <style type=\"text/css\">\n          .mj-outlook-group-fix { width:100% !important; }\n        </style>\n        <![endif]--><style type=\"text/css\">@media only screen and (min-width:480px) {\n        .mj-column-per-100 { width:100% !important; max-width: 100%; }\n      }</style><style media=\"screen and (min-width:480px)\">.moz-text-html .mj-column-per-100 { width:100% !important; max-width: 100%; }</style><style type=\"text/css\"></style><style type=\"text/css\">.mj-block {font-family: Arial, Helvetica, sans-serif;font-size: 13px;}</style></head><body style=\"word-spacing:normal;background-color:#ffffff;\"><div style=\"background-color:#ffffff;\"><!--[if mso | IE]><table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"mj-block-outlook\" role=\"presentation\" style=\"width:600px;\" width=\"600\" ><tr><td style=\"line-height:0px;font-size:0px;mso-line-height-rule:exactly;\"><![endif]--><div style=\"margin:0px auto;max-width:600px;\" class=\"mj-block\"><table style=\"width:100%;\" role=\"presentation\" cellspacing=\"0\" cellpadding=\"0\" border=\"0\" align=\"center\"><tbody><tr><td style=\"direction:ltr;font-size:0px;padding:0;text-align:center;\"><!--[if mso | IE]><table role=\"presentation\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr><td class=\"\" width=\"600px\" ><table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"\" role=\"presentation\" style=\"width:600px;\" width=\"600\" ><tr><td style=\"line-height:0px;font-size:0px;mso-line-height-rule:exactly;\"><![endif]--><div style=\"margin:0px auto;max-width:600px;\"><table style=\"width:100%;\" role=\"presentation\" cellspacing=\"0\" cellpadding=\"0\" border=\"0\" align=\"center\"><tbody><tr><td style=\"direction:ltr;font-size:0px;padding:0;text-align:center;\"><!--[if mso | IE]><table role=\"presentation\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr><td class=\"\" style=\"vertical-align:top;width:600px;\" ><![endif]--><div style=\"font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;\" class=\"mj-column-per-100 mj-outlook-group-fix\"><table width=\"100%\" style=\"vertical-align:top;\" role=\"presentation\" cellspacing=\"0\" cellpadding=\"0\" border=\"0\"><tbody><tr><td style=\"font-size:0px;padding:10px 25px;padding-top:5px;padding-right:5px;padding-bottom:5px;padding-left:5px;word-break:break-word;\" align=\"left\"><div style=\"font-family:Arial, Helvetica, sans-serif;font-size:13px;line-height:22px;text-align:left;color:#000001;\">Dear&nbsp;<img data-value=\"[#[IsOwnerSchema:false].[IsSchema:false].[Element:{bd696ba9-8680-4fc1-9890-d6440169684d}].[Parameter:{56f8fad8-59ed-4f79-bd21-cf10f5a5ec0e}].[EntityColumn:{a5cca792-47dd-428a-83fb-5c92bdd97ff8}]#]\" data-type=\"ProcessParameter\" alt=\"[#Read Contact.First item of resulting collection.Full name#]\">,<br><br>Please find below your login credentials for accessing the site:<a href=\"https://skf.creatio.com\">https://skf.creatio.com</a><br><br>Username:&nbsp;<img data-value=\"[#[IsOwnerSchema:false].[IsSchema:false].[Element:{bd696ba9-8680-4fc1-9890-d6440169684d}].[Parameter:{56f8fad8-59ed-4f79-bd21-cf10f5a5ec0e}].[EntityColumn:{dbf202ec-c444-479b-bcf4-d8e5b1863201}]#]\" data-type=\"ProcessParameter\" alt=\"[#Read Contact.First item of resulting collection.Email#]\"><br>Password:&nbsp;<img data-value=\"[#[IsOwnerSchema:false].[IsSchema:false].[Element:{bd696ba9-8680-4fc1-9890-d6440169684d}].[Parameter:{56f8fad8-59ed-4f79-bd21-cf10f5a5ec0e}].[EntityColumn:{c5d7c4d3-f308-40d3-8469-6ab6882bd70a}]#]\" data-type=\"ProcessParameter\" alt=\"[#Read Contact.First item of resulting collection.Recipient's name#]\"><p>For security reasons, we recommend that you update your password immediately after logging in</p><p>Thanks &amp; Regards,<br>Smit Suthar<br>Senior Developer<br><img src=\"data:image/png;base64,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\" aria-label=\"undefined\" alt=\"undefined\"><br>M: <u>+91 8529884225 </u>| E: <u>smit.suthar</u><a title=\"mailto:smit.suthar@qnovate.com\" rel=\"noreferrer noopener\" href=\"mailto:smit.suthar@qnovate.com\">@qnovate.com</a>&nbsp;|&nbsp; W: <a title=\"https://www.qnovate.com/\" rel=\"noreferrer noopener\" href=\"https://www.qnovate.com\">www.qnovate.com</a></p></div></td></tr></tbody></table></div><!--[if mso | IE]></td></tr></table><![endif]--></td></tr></tbody></table></div><!--[if mso | IE]></td></tr></table></td></tr></table><![endif]--></td></tr></tbody></table></div><!--[if mso | IE]></td></tr></table><![endif]--></div></body></html>",
+            "GS5": "af4ab872-b506-4546-ad90-c9425f44ca53"
+          }
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaMapping",
+          "UId": "9dac8fd2-a96a-4c87-bdc4-02d1764c4fde",
+          "A2": "EmailTemplateUserTask1",
+          "A3": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "A4": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "GT2": "[Element:{6fa5567d-6635-4ca8-b62d-f4c7bab6858a}].[Parameter:{f9480474-1cf8-410a-9789-3ae85229478b}]",
+          "GT3": "f9480474-1cf8-410a-9789-3ae85229478b",
+          "GT5": "d0812391-61c2-4df5-b377-8f13a059b4a1",
+          "GT4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+          "GT1": {
+            "GS1": 1,
+            "GS2": "{\"ItemType\":\"sheet\",\"Caption\":\"Content designer\",\"Width\":600,\"BackgroundColor\":\"#ffffff\",\"SheetAlign\":\"center\",\"BreakpointWidth\":480,\"Items\":[{\"ItemType\":\"mjblock\",\"Styles\":{\"background-position\":\"top center\",\"background-repeat\":\"no-repeat\"},\"Items\":[{\"ItemType\":\"section\",\"Styles\":{\"direction\":\"ltr\"},\"Items\":[{\"ItemType\":\"column\",\"Width\":100,\"Styles\":{},\"WrapperStyles\":{\"vertical-align\":\"top\",\"direction\":\"ltr\",\"width\":\"100%\"},\"Items\":[{\"ItemType\":\"text\",\"Content\":\"Dear&nbsp;<img alt=\\\"[#Read Contact.First item of resulting collection.Full name#]\\\" data-type=\\\"ProcessParameter\\\" data-value=\\\"[#[IsOwnerSchema:false].[IsSchema:false].[Element:{bd696ba9-8680-4fc1-9890-d6440169684d}].[Parameter:{56f8fad8-59ed-4f79-bd21-cf10f5a5ec0e}].[EntityColumn:{a5cca792-47dd-428a-83fb-5c92bdd97ff8}]#]\\\" />,<br />\\n<br />\\nPlease find below your login credentials for accessing the site:<a href=\\\"https://skf.creatio.com\\\">https://skf.creatio.com</a><br />\\n<br />\\nUsername:&nbsp;<img alt=\\\"[#Read Contact.First item of resulting collection.Email#]\\\" data-type=\\\"ProcessParameter\\\" data-value=\\\"[#[IsOwnerSchema:false].[IsSchema:false].[Element:{bd696ba9-8680-4fc1-9890-d6440169684d}].[Parameter:{56f8fad8-59ed-4f79-bd21-cf10f5a5ec0e}].[EntityColumn:{dbf202ec-c444-479b-bcf4-d8e5b1863201}]#]\\\" /><br />\\nPassword:&nbsp;<img alt=\\\"[#Read Contact.First item of resulting collection.Recipient's name#]\\\" data-type=\\\"ProcessParameter\\\" data-value=\\\"[#[IsOwnerSchema:false].[IsSchema:false].[Element:{bd696ba9-8680-4fc1-9890-d6440169684d}].[Parameter:{56f8fad8-59ed-4f79-bd21-cf10f5a5ec0e}].[EntityColumn:{c5d7c4d3-f308-40d3-8469-6ab6882bd70a}]#]\\\" />\\n<p>For security reasons, we recommend that you update your password immediately after logging in</p>\\n\\n<p>Thanks &amp; Regards,<br />\\nSmit Suthar<br />\\nSenior Developer<br />\\n<img alt=\\\"undefined\\\" aria-label=\\\"undefined\\\" itemtype=\\\"http://schema.skype.com/AMSImage\\\" src=\\\"data:image/png;base64,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\\\" target-src=\\\"https://us-api.asm.skype.com/v1/objects/0-eus-d10-e382d7e4fcf4e3455c25fc60ce2422d5/views/imgo\\\" /><br />\\nM: <u>+91 8529884225 </u>| E: <u>smit.suthar</u><a href=\\\"mailto:smit.suthar@qnovate.com\\\" rel=\\\"noreferrer noopener\\\" target=\\\"_blank\\\" title=\\\"mailto:smit.suthar@qnovate.com\\\">@qnovate.com</a>&nbsp;|&nbsp; W: <a href=\\\"https://www.qnovate.com\\\" rel=\\\"noreferrer noopener\\\" target=\\\"_blank\\\" title=\\\"https://www.qnovate.com/\\\">www.qnovate.com</a></p>\\n\",\"Styles\":{\"font-family\":\"Arial, Helvetica, sans-serif\",\"font-size\":\"13px\",\"color\":\"#000001\",\"line-height\":\"22px\",\"text-align\":\"left\",\"padding-left\":\"5px\",\"padding-right\":\"5px\",\"padding-top\":\"5px\",\"padding-bottom\":\"5px\"}}]}]}]}]}",
+            "GS5": "af4ab872-b506-4546-ad90-c9425f44ca53"
+          }
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaMapping",
+          "UId": "27eca714-0c72-4210-a7fd-94a23964eac3",
+          "A2": "EmailTemplateUserTask1",
+          "A3": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "A4": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "GT2": "[Element:{6fa5567d-6635-4ca8-b62d-f4c7bab6858a}].[Parameter:{658e66d0-834f-4dfa-b6a6-c0a5cd386074}]",
+          "GT3": "658e66d0-834f-4dfa-b6a6-c0a5cd386074",
+          "GT5": "633e0be1-0fd8-a8fc-872c-c0d91f1b2603",
+          "GT4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+          "GT1": {
+            "GS2": "false",
+            "GS5": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19"
+          }
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaMapping",
+          "UId": "0f35d408-1503-4cb3-ac68-dbaad0c1cda6",
+          "A2": "EmailTemplateUserTask1",
+          "A3": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "A4": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "GT2": "[Element:{6fa5567d-6635-4ca8-b62d-f4c7bab6858a}].[Parameter:{22e776c5-a3b7-4286-b5df-b57df57df84c}]",
+          "GT3": "22e776c5-a3b7-4286-b5df-b57df57df84c",
+          "GT5": "e0bdcc85-3918-4a9e-9589-de3ec07120ec",
+          "GT4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+          "GT1": {}
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaMapping",
+          "UId": "826117c1-ef61-4c8b-8ea7-4795256fc89a",
+          "A2": "EmailTemplateUserTask1",
+          "A3": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "A4": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "GT2": "[Element:{6fa5567d-6635-4ca8-b62d-f4c7bab6858a}].[Parameter:{454256c6-dd4b-4f42-8999-eeb7c8a61e5b}]",
+          "GT3": "454256c6-dd4b-4f42-8999-eeb7c8a61e5b",
+          "GT5": "00c2b73d-e1eb-4097-ab86-663735696f9b",
+          "GT4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+          "GT1": {}
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaMapping",
+          "UId": "3a5b280d-586e-4754-a6ed-3c3300e6561d",
+          "A2": "EmailTemplateUserTask1",
+          "A3": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "A4": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "GT2": "[Element:{6fa5567d-6635-4ca8-b62d-f4c7bab6858a}].[Parameter:{78dfd6d0-3e7b-4759-b5ba-d390c37b2aaf}]",
+          "GT3": "78dfd6d0-3e7b-4759-b5ba-d390c37b2aaf",
+          "GT5": "e4eae837-3880-4fb6-b3d9-1e07e1412230",
+          "GT4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+          "GT1": {}
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaMapping",
+          "UId": "3f169be6-e8ca-40be-9f27-66c0aaf829fc",
+          "A2": "EmailTemplateUserTask1",
+          "A3": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "A4": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "GT2": "[Element:{6fa5567d-6635-4ca8-b62d-f4c7bab6858a}].[Parameter:{ee5ac68c-15bc-4a1e-b51a-ab2803766ac9}]",
+          "GT3": "ee5ac68c-15bc-4a1e-b51a-ab2803766ac9",
+          "GT5": "ac4d6445-7193-41c2-94d5-462a81ec2a0e",
+          "GT4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+          "GT1": {}
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaMapping",
+          "UId": "00a15ae2-edd0-4eee-bc59-6b731aa7fff9",
+          "A2": "EmailTemplateUserTask1",
+          "A3": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "A4": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "GT2": "[Element:{6fa5567d-6635-4ca8-b62d-f4c7bab6858a}].[Parameter:{959adbfe-a015-42e9-8cd0-12ae781003a9}]",
+          "GT3": "959adbfe-a015-42e9-8cd0-12ae781003a9",
+          "GT5": "fd3466b5-56d9-4bca-8508-8e0429ce19a9",
+          "GT4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+          "GT1": {}
+        }
+      ],
+      "BK37": {
+        "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+        "UId": "cdd58be7-2dba-4a5e-869b-1ad5d6d7513a",
+        "A2": "NotificationCaption",
+        "A3": "af4ab872-b506-4546-ad90-c9425f44ca53",
+        "A4": "af4ab872-b506-4546-ad90-c9425f44ca53",
+        "L1": "8b3f29bb-ea14-4ce5-a5c5-293a929b6ba2",
+        "L8": {
+          "GS1": 3,
+          "GS2": "[#[PropertyValue:Caption]#]"
+        }
+      },
+      "BK1": "FFFFFFFF",
+      "BK2": "FFBBBBBB",
+      "BK3": [
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaLaneSet",
+          "UId": "71b49051-4630-40a8-9417-fea6a7a41bf7",
+          "A2": "LaneSet1",
+          "A3": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "A4": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "A5": "2ef9c21b-939d-4e9a-ae27-bc5ee59b5957",
+          "BL7": "11a47caf-a0d5-41fa-a274-a0b11f77447a",
+          "BL8": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "BM1": 0,
+          "BM4": [
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaLane",
+              "UId": "1f309eee-06f9-466d-8acc-b63ede0405d8",
+              "A2": "Lane1",
+              "A3": "af4ab872-b506-4546-ad90-c9425f44ca53",
+              "A4": "af4ab872-b506-4546-ad90-c9425f44ca53",
+              "A5": "2ef9c21b-939d-4e9a-ae27-bc5ee59b5957",
+              "IL2": "71b49051-4630-40a8-9417-fea6a7a41bf7",
+              "BL7": "abcd74b9-5912-414b-82ac-f1aa4dcd554e",
+              "BL8": "af4ab872-b506-4546-ad90-c9425f44ca53",
+              "CD1": [],
+              "CD2": [],
+              "CD4": "71b49051-4630-40a8-9417-fea6a7a41bf7",
+              "CD7": []
+            }
+          ]
+        }
+      ],
+      "BK5": [],
+      "BK4": [
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaStartEvent",
+          "UId": "89ef29cb-4400-4323-ba8c-ba2fd63e1739",
+          "A2": "StartEvent1",
+          "A3": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "A4": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "A5": "2ef9c21b-939d-4e9a-ae27-bc5ee59b5957",
+          "IL2": "1f309eee-06f9-466d-8acc-b63ede0405d8",
+          "BL3": "50;184",
+          "BL7": "53818048-7868-48f6-ada0-0ebaa65af628",
+          "BL8": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "BN2": "31;31",
+          "BO3": true,
+          "FC1": [],
+          "ED1": false
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaTerminateEvent",
+          "UId": "c4830239-f419-4958-ad9c-f422d883dbcc",
+          "A2": "TerminateEvent1",
+          "A3": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "A4": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "A5": "2ef9c21b-939d-4e9a-ae27-bc5ee59b5957",
+          "IL2": "1f309eee-06f9-466d-8acc-b63ede0405d8",
+          "BL3": "600;184",
+          "BL7": "1bd93619-0574-454e-bb4e-cf53b9eb9470",
+          "BL8": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "BN2": "31;31",
+          "BO3": true,
+          "FC1": []
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaUserTask",
+          "UId": "bd696ba9-8680-4fc1-9890-d6440169684d",
+          "A2": "ReadDataUserTask1",
+          "A3": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "A4": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "A5": "2ef9c21b-939d-4e9a-ae27-bc5ee59b5957",
+          "IL2": "1f309eee-06f9-466d-8acc-b63ede0405d8",
+          "BL3": "150;172",
+          "BL7": "cb455b6f-78ff-4b1e-b241-c2bbc0b37e9f",
+          "BL8": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "BN2": "69;55",
+          "BO2": true,
+          "BO3": true,
+          "BP2": [
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+              "UId": "fbbf5707-123b-4218-b0d0-033d7b5caf79",
+              "A2": "DataSourceFilters",
+              "A3": "cb455b6f-78ff-4b1e-b241-c2bbc0b37e9f",
+              "A4": "cb455b6f-78ff-4b1e-b241-c2bbc0b37e9f",
+              "A5": "66e9e705-64b4-4dda-925e-d1e05a389eb6",
+              "IL2": "bd696ba9-8680-4fc1-9890-d6440169684d",
+              "L1": "394e160f-c8e0-46fa-9c0d-75d97e9e9169",
+              "L8": {
+                "GS1": 1,
+                "GS2": "{\"className\":\"Terrasoft.FilterGroup\",\"serializedFilterEditData\":\"{\\\"className\\\":\\\"Terrasoft.FilterGroup\\\",\\\"items\\\":{\\\"d953d599-2691-42bd-9ffd-7eeb6b2bd68f\\\":{\\\"className\\\":\\\"Terrasoft.CompareFilter\\\",\\\"filterType\\\":1,\\\"comparisonType\\\":3,\\\"isEnabled\\\":true,\\\"trimDateTimeParameterToDate\\\":false,\\\"leftExpression\\\":{\\\"className\\\":\\\"Terrasoft.ColumnExpression\\\",\\\"expressionType\\\":0,\\\"columnPath\\\":\\\"Id\\\"},\\\"isAggregative\\\":false,\\\"key\\\":\\\"d953d599-2691-42bd-9ffd-7eeb6b2bd68f\\\",\\\"dataValueType\\\":0,\\\"leftExpressionCaption\\\":\\\"Id\\\",\\\"rightExpression\\\":{\\\"className\\\":\\\"Terrasoft.ParameterExpression\\\",\\\"expressionType\\\":2,\\\"parameter\\\":{\\\"className\\\":\\\"Terrasoft.Parameter\\\",\\\"dataValueType\\\":26,\\\"value\\\":{\\\"value\\\":\\\"[IsOwnerSchema:false].[IsSchema:false].[Parameter:{051878da-f6bd-4fc5-8e44-15807de984de}]\\\",\\\"displayValue\\\":\\\"Contact\\\"}}}}},\\\"logicalOperation\\\":0,\\\"isEnabled\\\":true,\\\"filterType\\\":6,\\\"rootSchemaName\\\":\\\"Contact\\\",\\\"key\\\":\\\"\\\"}\",\"dataSourceFilters\":\"{\\\"items\\\":{\\\"d953d599-2691-42bd-9ffd-7eeb6b2bd68f\\\":{\\\"filterType\\\":1,\\\"comparisonType\\\":3,\\\"isEnabled\\\":true,\\\"trimDateTimeParameterToDate\\\":false,\\\"leftExpression\\\":{\\\"expressionType\\\":0,\\\"columnPath\\\":\\\"Id\\\"},\\\"rightExpression\\\":{\\\"expressionType\\\":2,\\\"parameter\\\":{\\\"dataValueType\\\":26,\\\"value\\\":{\\\"value\\\":\\\"[IsOwnerSchema:false].[IsSchema:false].[Parameter:{051878da-f6bd-4fc5-8e44-15807de984de}]\\\"}}}}},\\\"logicalOperation\\\":0,\\\"isEnabled\\\":true,\\\"filterType\\\":6,\\\"rootSchemaName\\\":\\\"Contact\\\"}\"}",
+                "GS5": "af4ab872-b506-4546-ad90-c9425f44ca53"
+              }
+            },
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+              "UId": "2f9c3d6d-bca6-4a85-98f7-b1bd28c23183",
+              "A2": "ResultType",
+              "A3": "cb455b6f-78ff-4b1e-b241-c2bbc0b37e9f",
+              "A4": "cb455b6f-78ff-4b1e-b241-c2bbc0b37e9f",
+              "IL2": "bd696ba9-8680-4fc1-9890-d6440169684d",
+              "L1": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0",
+              "L8": {
+                "GS1": 1,
+                "GS2": "0",
+                "GS5": "cb455b6f-78ff-4b1e-b241-c2bbc0b37e9f"
+              }
+            },
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+              "UId": "c59dc332-1841-4b2f-869b-7b1627a74186",
+              "A2": "ReadSomeTopRecords",
+              "A3": "cb455b6f-78ff-4b1e-b241-c2bbc0b37e9f",
+              "A4": "cb455b6f-78ff-4b1e-b241-c2bbc0b37e9f",
+              "IL2": "bd696ba9-8680-4fc1-9890-d6440169684d",
+              "L1": "90b65bf8-0ffc-4141-8779-2420877af907",
+              "L8": {
+                "GS1": 1,
+                "GS2": "true",
+                "GS5": "af4ab872-b506-4546-ad90-c9425f44ca53"
+              }
+            },
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+              "UId": "6b3c20be-2d3f-445d-a09c-d44be010c66a",
+              "A2": "NumberOfRecords",
+              "A3": "cb455b6f-78ff-4b1e-b241-c2bbc0b37e9f",
+              "A4": "cb455b6f-78ff-4b1e-b241-c2bbc0b37e9f",
+              "IL2": "bd696ba9-8680-4fc1-9890-d6440169684d",
+              "L1": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0",
+              "L8": {
+                "GS1": 1,
+                "GS2": "50",
+                "GS5": "af4ab872-b506-4546-ad90-c9425f44ca53"
+              }
+            },
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+              "UId": "81c14666-56d2-45b3-8ae2-4be5f920e9b0",
+              "A2": "FunctionType",
+              "A3": "cb455b6f-78ff-4b1e-b241-c2bbc0b37e9f",
+              "A4": "cb455b6f-78ff-4b1e-b241-c2bbc0b37e9f",
+              "IL2": "bd696ba9-8680-4fc1-9890-d6440169684d",
+              "L1": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0",
+              "L8": {
+                "GS1": 1,
+                "GS2": "0",
+                "GS5": "af4ab872-b506-4546-ad90-c9425f44ca53"
+              }
+            },
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+              "UId": "844e0ae8-084d-443e-bf8e-aa485a78b406",
+              "A2": "AggregationColumnName",
+              "A3": "cb455b6f-78ff-4b1e-b241-c2bbc0b37e9f",
+              "A4": "cb455b6f-78ff-4b1e-b241-c2bbc0b37e9f",
+              "IL2": "bd696ba9-8680-4fc1-9890-d6440169684d",
+              "L1": "394e160f-c8e0-46fa-9c0d-75d97e9e9169",
+              "L8": {}
+            },
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+              "UId": "0d87bec6-e509-4edf-aed8-a9eec764018c",
+              "A2": "OrderInfo",
+              "A3": "cb455b6f-78ff-4b1e-b241-c2bbc0b37e9f",
+              "A4": "cb455b6f-78ff-4b1e-b241-c2bbc0b37e9f",
+              "IL2": "bd696ba9-8680-4fc1-9890-d6440169684d",
+              "L1": "394e160f-c8e0-46fa-9c0d-75d97e9e9169",
+              "L8": {
+                "GS1": 1,
+                "GS2": "Name:1:1",
+                "GS5": "af4ab872-b506-4546-ad90-c9425f44ca53"
+              }
+            },
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+              "UId": "56f8fad8-59ed-4f79-bd21-cf10f5a5ec0e",
+              "A2": "ResultEntity",
+              "A3": "cb455b6f-78ff-4b1e-b241-c2bbc0b37e9f",
+              "A4": "cb455b6f-78ff-4b1e-b241-c2bbc0b37e9f",
+              "A5": "66e9e705-64b4-4dda-925e-d1e05a389eb6",
+              "IL2": "bd696ba9-8680-4fc1-9890-d6440169684d",
+              "L1": "ebd85d37-0abf-4bbf-bb32-97dc3dffcc8c",
+              "L8": {
+                "GS1": 1,
+                "GS5": "af4ab872-b506-4546-ad90-c9425f44ca53"
+              },
+              "L9": "16be3651-8fe2-4159-8dd0-a803d4683dd3",
+              "L13": true
+            },
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+              "UId": "d43aeb82-c7c1-4603-8a05-b9f8acd94d80",
+              "A2": "ResultCount",
+              "A3": "cb455b6f-78ff-4b1e-b241-c2bbc0b37e9f",
+              "A4": "cb455b6f-78ff-4b1e-b241-c2bbc0b37e9f",
+              "IL2": "bd696ba9-8680-4fc1-9890-d6440169684d",
+              "L1": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0",
+              "L8": {}
+            },
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+              "UId": "f1cfe1c3-1b48-45a4-830c-ecd6fcfd3890",
+              "A2": "ResultIntegerFunction",
+              "A3": "cb455b6f-78ff-4b1e-b241-c2bbc0b37e9f",
+              "A4": "cb455b6f-78ff-4b1e-b241-c2bbc0b37e9f",
+              "IL2": "bd696ba9-8680-4fc1-9890-d6440169684d",
+              "L1": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0",
+              "L8": {}
+            },
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+              "UId": "3dfd2af8-e0b4-4086-8573-95e9d402b972",
+              "A2": "ResultFloatFunction",
+              "A3": "cb455b6f-78ff-4b1e-b241-c2bbc0b37e9f",
+              "A4": "cb455b6f-78ff-4b1e-b241-c2bbc0b37e9f",
+              "IL2": "bd696ba9-8680-4fc1-9890-d6440169684d",
+              "L1": "ff22e049-4d16-46ee-a529-92d8808932dc",
+              "L8": {}
+            },
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+              "UId": "e79607c1-a119-4b49-b9a4-99d79ecb34cd",
+              "A2": "ResultDateTimeFunction",
+              "A3": "cb455b6f-78ff-4b1e-b241-c2bbc0b37e9f",
+              "A4": "cb455b6f-78ff-4b1e-b241-c2bbc0b37e9f",
+              "IL2": "bd696ba9-8680-4fc1-9890-d6440169684d",
+              "L1": "d21e9ef4-c064-4012-b286-fa1a8171da44",
+              "L8": {}
+            },
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+              "UId": "ee8fa3af-f6a1-4d7a-b1de-308e09840cef",
+              "A2": "ResultRowsCount",
+              "A3": "cb455b6f-78ff-4b1e-b241-c2bbc0b37e9f",
+              "A4": "cb455b6f-78ff-4b1e-b241-c2bbc0b37e9f",
+              "IL2": "bd696ba9-8680-4fc1-9890-d6440169684d",
+              "L1": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0",
+              "L8": {}
+            },
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+              "UId": "260becc6-0f52-4439-9760-0e788f9c751f",
+              "A2": "CanReadUncommitedData",
+              "A3": "cb455b6f-78ff-4b1e-b241-c2bbc0b37e9f",
+              "A4": "cb455b6f-78ff-4b1e-b241-c2bbc0b37e9f",
+              "IL2": "bd696ba9-8680-4fc1-9890-d6440169684d",
+              "L1": "90b65bf8-0ffc-4141-8779-2420877af907",
+              "L8": {
+                "GS1": 1,
+                "GS2": "true",
+                "GS5": "cb455b6f-78ff-4b1e-b241-c2bbc0b37e9f"
+              }
+            },
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+              "UId": "3300e326-98e1-4467-9ff0-7b61db415a0d",
+              "A2": "ResultEntityCollection",
+              "A3": "cb455b6f-78ff-4b1e-b241-c2bbc0b37e9f",
+              "A4": "cb455b6f-78ff-4b1e-b241-c2bbc0b37e9f",
+              "IL2": "bd696ba9-8680-4fc1-9890-d6440169684d",
+              "L1": "51fb23ba-3eb2-11e2-b7d5-b0c76188709b",
+              "L8": {}
+            },
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+              "UId": "0532a84d-1025-42cd-9b5a-065825db1260",
+              "A2": "EntityColumnMetaPathes",
+              "A3": "cb455b6f-78ff-4b1e-b241-c2bbc0b37e9f",
+              "A4": "cb455b6f-78ff-4b1e-b241-c2bbc0b37e9f",
+              "IL2": "bd696ba9-8680-4fc1-9890-d6440169684d",
+              "L1": "394e160f-c8e0-46fa-9c0d-75d97e9e9169",
+              "L8": {}
+            },
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+              "UId": "1619a6a7-4903-4c77-ad80-ce6d8bb46e39",
+              "A2": "IgnoreDisplayValues",
+              "A3": "cb455b6f-78ff-4b1e-b241-c2bbc0b37e9f",
+              "A4": "cb455b6f-78ff-4b1e-b241-c2bbc0b37e9f",
+              "IL2": "bd696ba9-8680-4fc1-9890-d6440169684d",
+              "L1": "90b65bf8-0ffc-4141-8779-2420877af907",
+              "L8": {}
+            },
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+              "UId": "34419302-1c56-42d5-9b6a-aed11baf0fc5",
+              "A2": "ResultCompositeObjectList",
+              "A3": "cb455b6f-78ff-4b1e-b241-c2bbc0b37e9f",
+              "A4": "cb455b6f-78ff-4b1e-b241-c2bbc0b37e9f",
+              "IL2": "bd696ba9-8680-4fc1-9890-d6440169684d",
+              "L1": "651ec16f-d140-46db-b9e2-825c985a8ac2",
+              "L8": {}
+            },
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+              "UId": "5945e18a-b215-4ef5-a2ee-185e8475ad67",
+              "A2": "ConsiderTimeInFilter",
+              "A3": "cb455b6f-78ff-4b1e-b241-c2bbc0b37e9f",
+              "A4": "cb455b6f-78ff-4b1e-b241-c2bbc0b37e9f",
+              "IL2": "bd696ba9-8680-4fc1-9890-d6440169684d",
+              "L1": "90b65bf8-0ffc-4141-8779-2420877af907",
+              "L8": {
+                "GS1": 3,
+                "GS2": "true",
+                "GS5": "cb455b6f-78ff-4b1e-b241-c2bbc0b37e9f",
+                "GS8": "false"
+              }
+            }
+          ],
+          "CL2": "FFFFFFFF",
+          "J6": "cb455b6f-78ff-4b1e-b241-c2bbc0b37e9f"
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaUserTask",
+          "UId": "6fa5567d-6635-4ca8-b62d-f4c7bab6858a",
+          "A2": "EmailTemplateUserTask1",
+          "A3": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "A4": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "A5": "2ef9c21b-939d-4e9a-ae27-bc5ee59b5957",
+          "IL2": "1f309eee-06f9-466d-8acc-b63ede0405d8",
+          "BL3": "404;172",
+          "BL7": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+          "BL8": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "BN2": "69;55",
+          "BO2": true,
+          "BO3": true,
+          "BP2": [
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+              "UId": "7282c9a7-d59c-454c-9165-c3f262b5b5f8",
+              "A2": "Recommendation",
+              "A3": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "A4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "A5": "66e9e705-64b4-4dda-925e-d1e05a389eb6",
+              "IL2": "6fa5567d-6635-4ca8-b62d-f4c7bab6858a",
+              "L1": "95c6e6c4-2cc8-46be-a1cb-96f942655f86",
+              "L8": {
+                "GS1": 1,
+                "GS5": "af4ab872-b506-4546-ad90-c9425f44ca53"
+              }
+            },
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+              "UId": "4b416dd7-f8e7-4672-8bf9-17b5b70482ce",
+              "A2": "ActivityCategory",
+              "A3": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "A4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "A5": "66e9e705-64b4-4dda-925e-d1e05a389eb6",
+              "IL2": "6fa5567d-6635-4ca8-b62d-f4c7bab6858a",
+              "L1": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+              "L8": {
+                "GS1": 3,
+                "GS2": "[#Lookup.961e2086-a12b-4d27-b095-40b1e64d6cc0.8038a396-7825-e011-8165-00155d043204#]",
+                "GS5": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19"
+              },
+              "L9": "961e2086-a12b-4d27-b095-40b1e64d6cc0",
+              "L16": "ActivityCategory",
+              "L17": "EntityColumnValue"
+            },
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+              "UId": "015102ed-b580-4d1d-9783-d7f1a054ec33",
+              "A2": "OwnerId",
+              "A3": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "A4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "A5": "66e9e705-64b4-4dda-925e-d1e05a389eb6",
+              "IL2": "6fa5567d-6635-4ca8-b62d-f4c7bab6858a",
+              "L1": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+              "L8": {},
+              "L9": "16be3651-8fe2-4159-8dd0-a803d4683dd3",
+              "L14": true,
+              "L16": "Contact"
+            },
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+              "UId": "1d1f7f31-4df7-4383-99ee-98571def0dd5",
+              "A2": "Duration",
+              "A3": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "A4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "A5": "66e9e705-64b4-4dda-925e-d1e05a389eb6",
+              "IL2": "6fa5567d-6635-4ca8-b62d-f4c7bab6858a",
+              "L1": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0",
+              "L8": {
+                "GS1": 1,
+                "GS2": "5",
+                "GS5": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19"
+              }
+            },
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+              "UId": "b1ff04f6-b191-45ab-ba4b-6185ab740ae6",
+              "A2": "DurationPeriod",
+              "A3": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "A4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "A5": "66e9e705-64b4-4dda-925e-d1e05a389eb6",
+              "IL2": "6fa5567d-6635-4ca8-b62d-f4c7bab6858a",
+              "L1": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0",
+              "L8": {
+                "GS1": 1,
+                "GS2": "0",
+                "GS5": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19"
+              }
+            },
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+              "UId": "fc750af8-393d-4a63-8298-b0fa3098ba7a",
+              "A2": "StartIn",
+              "A3": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "A4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "A5": "66e9e705-64b4-4dda-925e-d1e05a389eb6",
+              "IL2": "6fa5567d-6635-4ca8-b62d-f4c7bab6858a",
+              "L1": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0",
+              "L8": {
+                "GS1": 1,
+                "GS2": "0",
+                "GS5": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19"
+              }
+            },
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+              "UId": "091b9e85-12d4-4715-a51e-db3190e33126",
+              "A2": "StartInPeriod",
+              "A3": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "A4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "A5": "66e9e705-64b4-4dda-925e-d1e05a389eb6",
+              "IL2": "6fa5567d-6635-4ca8-b62d-f4c7bab6858a",
+              "L1": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0",
+              "L8": {
+                "GS1": 1,
+                "GS2": "0",
+                "GS5": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19"
+              }
+            },
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+              "UId": "8744de25-8b22-4c0c-b65f-5260c7bd93d9",
+              "A2": "RemindBefore",
+              "A3": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "A4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "IL2": "6fa5567d-6635-4ca8-b62d-f4c7bab6858a",
+              "L1": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0",
+              "L8": {
+                "GS1": 1,
+                "GS2": "0",
+                "GS5": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19"
+              }
+            },
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+              "UId": "574fdbc6-dfc6-4b28-9db2-d545615c36c7",
+              "A2": "RemindBeforePeriod",
+              "A3": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "A4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "IL2": "6fa5567d-6635-4ca8-b62d-f4c7bab6858a",
+              "L1": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0",
+              "L8": {
+                "GS1": 1,
+                "GS2": "0",
+                "GS5": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19"
+              }
+            },
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+              "UId": "1d59c8ac-a188-4ebc-9a9f-b0f0fbe8abbe",
+              "A2": "ShowInScheduler",
+              "A3": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "A4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "A5": "66e9e705-64b4-4dda-925e-d1e05a389eb6",
+              "IL2": "6fa5567d-6635-4ca8-b62d-f4c7bab6858a",
+              "L1": "90b65bf8-0ffc-4141-8779-2420877af907",
+              "L8": {
+                "GS1": 1,
+                "GS2": "False",
+                "GS5": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19"
+              },
+              "L17": "EntityColumnValue"
+            },
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+              "UId": "1b259112-57e6-4f5f-a69c-d8df4acce0a1",
+              "A2": "ShowExecutionPage",
+              "A3": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "A4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "A5": "66e9e705-64b4-4dda-925e-d1e05a389eb6",
+              "IL2": "6fa5567d-6635-4ca8-b62d-f4c7bab6858a",
+              "L1": "90b65bf8-0ffc-4141-8779-2420877af907",
+              "L8": {
+                "GS1": 1,
+                "GS2": "true",
+                "GS5": "af4ab872-b506-4546-ad90-c9425f44ca53"
+              }
+            },
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+              "UId": "aa45aefb-94a5-4a6c-a3f2-27c7f01717b0",
+              "A2": "Lead",
+              "A3": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "A4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "A5": "66e9e705-64b4-4dda-925e-d1e05a389eb6",
+              "IL2": "6fa5567d-6635-4ca8-b62d-f4c7bab6858a",
+              "L1": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+              "L8": {},
+              "L9": "41af89e9-750b-4ebb-8cac-ff39b64841ec",
+              "L16": "Lead",
+              "L17": "EntityColumnValue"
+            },
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+              "UId": "6e05e9f1-49ca-44ad-a0ff-771ee1e4a8b6",
+              "A2": "Account",
+              "A3": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "A4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "A5": "66e9e705-64b4-4dda-925e-d1e05a389eb6",
+              "IL2": "6fa5567d-6635-4ca8-b62d-f4c7bab6858a",
+              "L1": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+              "L8": {},
+              "L9": "25d7c1ab-1de0-4501-b402-02e0e5a72d6e",
+              "L16": "Account",
+              "L17": "EntityColumnValue"
+            },
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+              "UId": "737fa1db-7911-4baa-bd82-4013dee75f6c",
+              "A2": "Contact",
+              "A3": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "A4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "A5": "66e9e705-64b4-4dda-925e-d1e05a389eb6",
+              "IL2": "6fa5567d-6635-4ca8-b62d-f4c7bab6858a",
+              "L1": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+              "L8": {},
+              "L9": "16be3651-8fe2-4159-8dd0-a803d4683dd3",
+              "L16": "Contact",
+              "L17": "EntityColumnValue"
+            },
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+              "UId": "28764729-daf2-4aca-95db-165aaad53248",
+              "A2": "Opportunity",
+              "A3": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "A4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "A5": "66e9e705-64b4-4dda-925e-d1e05a389eb6",
+              "IL2": "6fa5567d-6635-4ca8-b62d-f4c7bab6858a",
+              "L1": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+              "L8": {},
+              "L9": "ae46fb87-c02c-4ae8-ad31-a923cdd994cf",
+              "L16": "Opportunity",
+              "L17": "EntityColumnValue"
+            },
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+              "UId": "6d720df4-e333-49cb-8c64-6f7cf874dc24",
+              "A2": "Invoice",
+              "A3": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "A4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "A5": "66e9e705-64b4-4dda-925e-d1e05a389eb6",
+              "IL2": "6fa5567d-6635-4ca8-b62d-f4c7bab6858a",
+              "L1": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+              "L8": {},
+              "L9": "bfb313dd-bb55-4e1b-8e42-3d346e0da7c5",
+              "L16": "Invoice",
+              "L17": "EntityColumnValue"
+            },
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+              "UId": "0a4e28f0-0076-43b9-bd56-8365f14b4b21",
+              "A2": "Document",
+              "A3": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "A4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "A5": "66e9e705-64b4-4dda-925e-d1e05a389eb6",
+              "IL2": "6fa5567d-6635-4ca8-b62d-f4c7bab6858a",
+              "L1": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+              "L8": {},
+              "L9": "8b33b6b2-19f7-4222-9161-b4054b3fbb09",
+              "L16": "Document",
+              "L17": "EntityColumnValue"
+            },
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+              "UId": "081a9c97-becf-414a-bb4c-61e4221bc2d6",
+              "A2": "ActivityResult",
+              "A3": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "A4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "A5": "66e9e705-64b4-4dda-925e-d1e05a389eb6",
+              "IL2": "6fa5567d-6635-4ca8-b62d-f4c7bab6858a",
+              "L1": "23018567-a13c-4320-8687-fd6f9e3699bd",
+              "L8": {},
+              "L13": true
+            },
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+              "UId": "81c7be5c-ddbb-4c39-8c52-2bc9073be4ca",
+              "A2": "Incident",
+              "A3": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "A4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "IL2": "6fa5567d-6635-4ca8-b62d-f4c7bab6858a",
+              "L1": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+              "L8": {},
+              "L16": "Incident",
+              "L17": "EntityColumnValue"
+            },
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+              "UId": "f0568e7a-5eee-462d-8fba-e0812da95f35",
+              "A2": "Case",
+              "A3": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "A4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "IL2": "6fa5567d-6635-4ca8-b62d-f4c7bab6858a",
+              "L1": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+              "L8": {},
+              "L9": "117d32f9-8275-4534-8411-1c66115ce9cd",
+              "L16": "Case",
+              "L17": "EntityColumnValue"
+            },
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+              "UId": "ab669aa8-1183-4048-b723-b4974ba9bb9f",
+              "A2": "ActivityId",
+              "A3": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "A4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "IL2": "6fa5567d-6635-4ca8-b62d-f4c7bab6858a",
+              "L1": "23018567-a13c-4320-8687-fd6f9e3699bd",
+              "L8": {}
+            },
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+              "UId": "0654e081-456d-4eb1-8618-8039c69842a6",
+              "A2": "IsActivityCompleted",
+              "A3": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "A4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "IL2": "6fa5567d-6635-4ca8-b62d-f4c7bab6858a",
+              "L1": "90b65bf8-0ffc-4141-8779-2420877af907",
+              "L8": {}
+            },
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+              "UId": "f0b57c72-7e36-40f9-b8e1-493d80d48392",
+              "A2": "ExecutionContext",
+              "A3": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "A4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "IL2": "6fa5567d-6635-4ca8-b62d-f4c7bab6858a",
+              "L1": "8b3f29bb-ea14-4ce5-a5c5-293a929b6ba2",
+              "L8": {},
+              "L11": false
+            },
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+              "UId": "105d97b5-382c-41d0-bb9e-6d6ea7b70137",
+              "A2": "InformationOnStep",
+              "A3": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "A4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "IL2": "6fa5567d-6635-4ca8-b62d-f4c7bab6858a",
+              "L1": "95c6e6c4-2cc8-46be-a1cb-96f942655f86",
+              "L8": {}
+            },
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+              "UId": "9b62692e-b344-4389-a765-d4493cf90697",
+              "A2": "Order",
+              "A3": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "A4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "IL2": "6fa5567d-6635-4ca8-b62d-f4c7bab6858a",
+              "L1": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+              "L8": {},
+              "L9": "80294582-06b5-4faa-a85f-3323e5536b71",
+              "L16": "Order",
+              "L17": "EntityColumnValue"
+            },
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+              "UId": "caa4835c-a9c1-49b8-90a1-5b5e3fd17330",
+              "A2": "Contract",
+              "A3": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "A4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "IL2": "6fa5567d-6635-4ca8-b62d-f4c7bab6858a",
+              "L1": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+              "L8": {},
+              "L9": "897be3e4-0333-467d-88e2-b7a945c0d810",
+              "L16": "Contract",
+              "L17": "EntityColumnValue"
+            },
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+              "UId": "c19de5cb-902e-4a9e-b642-19103d314c7c",
+              "A2": "Property",
+              "A3": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "A4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "IL2": "6fa5567d-6635-4ca8-b62d-f4c7bab6858a",
+              "L1": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+              "L8": {},
+              "L16": "Property",
+              "L17": "EntityColumnValue"
+            },
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+              "UId": "72e059ad-0844-445d-9069-15bcb1a789d8",
+              "A2": "Listing",
+              "A3": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "A4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "IL2": "6fa5567d-6635-4ca8-b62d-f4c7bab6858a",
+              "L1": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+              "L8": {},
+              "L16": "Listing",
+              "L17": "EntityColumnValue"
+            },
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+              "UId": "9d7eaf40-c742-4056-8573-887ab5137cee",
+              "A2": "Requests",
+              "A3": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "A4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "IL2": "6fa5567d-6635-4ca8-b62d-f4c7bab6858a",
+              "L1": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+              "L8": {},
+              "L16": "Requests",
+              "L17": "EntityColumnValue"
+            },
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+              "UId": "58ab0da1-c283-4392-9ba8-79d4f180df98",
+              "A2": "Project",
+              "A3": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "A4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "IL2": "6fa5567d-6635-4ca8-b62d-f4c7bab6858a",
+              "L1": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+              "L8": {},
+              "L9": "a11d7fa4-9946-494c-ae41-2169844d29be",
+              "L16": "Project",
+              "L17": "EntityColumnValue"
+            },
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+              "UId": "c54d06ab-9768-4477-a2d4-c4ab544a7dd6",
+              "A2": "Problem",
+              "A3": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "A4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "IL2": "6fa5567d-6635-4ca8-b62d-f4c7bab6858a",
+              "L1": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+              "L8": {},
+              "L9": "7ec5366d-8edf-4b7d-b94b-2bc2655cf230",
+              "L16": "Problem",
+              "L17": "EntityColumnValue"
+            },
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+              "UId": "4371a2db-7bfd-4826-a5e2-2db9033fa6a1",
+              "A2": "Change",
+              "A3": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "A4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "IL2": "6fa5567d-6635-4ca8-b62d-f4c7bab6858a",
+              "L1": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+              "L8": {},
+              "L9": "de5c8d59-d372-407d-8c09-f0523e057e40",
+              "L16": "Change",
+              "L17": "EntityColumnValue"
+            },
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+              "UId": "be5a268c-2a04-4de9-85a5-42ccbab2a087",
+              "A2": "Release",
+              "A3": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "A4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "IL2": "6fa5567d-6635-4ca8-b62d-f4c7bab6858a",
+              "L1": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+              "L8": {},
+              "L9": "0bf3a274-e5da-4fc7-94c4-3ae233598714",
+              "L16": "Release",
+              "L17": "EntityColumnValue"
+            },
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+              "UId": "01bc7383-93bf-4f7e-aab8-081cc83f5608",
+              "A2": "QueueItem",
+              "A3": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "A4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "IL2": "6fa5567d-6635-4ca8-b62d-f4c7bab6858a",
+              "L1": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+              "L8": {},
+              "L9": "aadf2fcd-684b-4414-8317-bf9879e97569",
+              "L16": "VwQueueItem"
+            },
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+              "UId": "42c826e8-1803-4bf0-bddc-e56ad38379a4",
+              "A2": "Sender",
+              "A3": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "A4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "IL2": "6fa5567d-6635-4ca8-b62d-f4c7bab6858a",
+              "L1": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+              "L8": {
+                "GS1": 3,
+                "GS2": "[#Lookup.5e487721-02e2-48ee-b755-dfa5160f5315.ee847eaf-cc76-49ec-97df-beb76d7de30b#]",
+                "GS5": "af4ab872-b506-4546-ad90-c9425f44ca53"
+              },
+              "L9": "5e487721-02e2-48ee-b755-dfa5160f5315"
+            },
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+              "UId": "36e2ae00-7d8a-400b-a90c-63bd551b59ae",
+              "A2": "Importance",
+              "A3": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "A4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "IL2": "6fa5567d-6635-4ca8-b62d-f4c7bab6858a",
+              "L1": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0",
+              "L8": {
+                "GS1": 1,
+                "GS2": "1",
+                "GS5": "af4ab872-b506-4546-ad90-c9425f44ca53"
+              }
+            },
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+              "UId": "47cfeb22-69c8-46f1-b054-68cabe3aa1e6",
+              "A2": "Subject",
+              "A3": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "A4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "IL2": "6fa5567d-6635-4ca8-b62d-f4c7bab6858a",
+              "L1": "95c6e6c4-2cc8-46be-a1cb-96f942655f86",
+              "L8": {
+                "GS1": 1,
+                "GS5": "af4ab872-b506-4546-ad90-c9425f44ca53"
+              }
+            },
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+              "UId": "b108f4af-eed3-49fa-8bc2-b5ce53700733",
+              "A2": "IgnoreErrors",
+              "A3": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "A4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "IL2": "6fa5567d-6635-4ca8-b62d-f4c7bab6858a",
+              "L1": "90b65bf8-0ffc-4141-8779-2420877af907",
+              "L8": {
+                "GS1": 1,
+                "GS2": "true",
+                "GS5": "af4ab872-b506-4546-ad90-c9425f44ca53"
+              }
+            },
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+              "UId": "5b3a44d6-8940-4fca-bc30-a6ef96da62d9",
+              "A2": "SendEmailType",
+              "A3": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "A4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "IL2": "6fa5567d-6635-4ca8-b62d-f4c7bab6858a",
+              "L1": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0",
+              "L8": {
+                "GS1": 1,
+                "GS2": "0",
+                "GS5": "af4ab872-b506-4546-ad90-c9425f44ca53"
+              }
+            },
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+              "UId": "81c09dc7-8c62-43bc-b031-a929cb3fff2b",
+              "A2": "BodyTemplateType",
+              "A3": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "A4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "IL2": "6fa5567d-6635-4ca8-b62d-f4c7bab6858a",
+              "L1": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0",
+              "L8": {
+                "GS1": 1,
+                "GS2": "1",
+                "GS5": "af4ab872-b506-4546-ad90-c9425f44ca53"
+              }
+            },
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+              "UId": "a1665f04-9c7b-4234-b027-5f677c437846",
+              "A2": "EmailTemplateId",
+              "A3": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "A4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "IL2": "6fa5567d-6635-4ca8-b62d-f4c7bab6858a",
+              "L1": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+              "L8": {},
+              "L9": "93030575-f70f-4041-902e-c4badaf62c63",
+              "L16": "EmailTemplate"
+            },
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+              "UId": "9a8b6c8f-4ab4-470d-bc0d-4b5a964948fe",
+              "A2": "EmailTemplateEntityId",
+              "A3": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "A4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "IL2": "6fa5567d-6635-4ca8-b62d-f4c7bab6858a",
+              "L1": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+              "L8": {}
+            },
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+              "UId": "a11bb8fa-0148-4783-b87f-9fb1438c938a",
+              "A2": "Body",
+              "A3": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "A4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "IL2": "6fa5567d-6635-4ca8-b62d-f4c7bab6858a",
+              "L1": "394e160f-c8e0-46fa-9c0d-75d97e9e9169",
+              "L8": {
+                "GS1": 1,
+                "GS2": "<html xmlns=\"http://www.w3.org/1999/xhtml\"><head><title></title><!--[if !mso]><!--><!--<![endif]--><style type=\"text/css\">#outlook a { padding:0; }\n          body { margin:0;padding:0;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%; }\n          table, td { border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt; }\n          img { border:0;height:auto;line-height:100%; outline:none;text-decoration:none;-ms-interpolation-mode:bicubic; }\n          p { display:block;margin:13px 0; }</style><!--[if mso]>\n        <noscript>\n        <xml>\n        <o:OfficeDocumentSettings>\n          <o:AllowPNG/>\n          <o:PixelsPerInch>96</o:PixelsPerInch>\n        </o:OfficeDocumentSettings>\n        </xml>\n        </noscript>\n        <![endif]--><!--[if lte mso 11]>\n        <style type=\"text/css\">\n          .mj-outlook-group-fix { width:100% !important; }\n        </style>\n        <![endif]--><style type=\"text/css\">@media only screen and (min-width:480px) {\n        .mj-column-per-100 { width:100% !important; max-width: 100%; }\n      }</style><style media=\"screen and (min-width:480px)\">.moz-text-html .mj-column-per-100 { width:100% !important; max-width: 100%; }</style><style type=\"text/css\"></style><style type=\"text/css\">.mj-block {font-family: Arial, Helvetica, sans-serif;font-size: 13px;}</style></head><body style=\"word-spacing:normal;background-color:#ffffff;\"><div style=\"background-color:#ffffff;\"><!--[if mso | IE]><table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"mj-block-outlook\" role=\"presentation\" style=\"width:600px;\" width=\"600\" ><tr><td style=\"line-height:0px;font-size:0px;mso-line-height-rule:exactly;\"><![endif]--><div style=\"margin:0px auto;max-width:600px;\" class=\"mj-block\"><table style=\"width:100%;\" role=\"presentation\" cellspacing=\"0\" cellpadding=\"0\" border=\"0\" align=\"center\"><tbody><tr><td style=\"direction:ltr;font-size:0px;padding:0;text-align:center;\"><!--[if mso | IE]><table role=\"presentation\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr><td class=\"\" width=\"600px\" ><table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"\" role=\"presentation\" style=\"width:600px;\" width=\"600\" ><tr><td style=\"line-height:0px;font-size:0px;mso-line-height-rule:exactly;\"><![endif]--><div style=\"margin:0px auto;max-width:600px;\"><table style=\"width:100%;\" role=\"presentation\" cellspacing=\"0\" cellpadding=\"0\" border=\"0\" align=\"center\"><tbody><tr><td style=\"direction:ltr;font-size:0px;padding:0;text-align:center;\"><!--[if mso | IE]><table role=\"presentation\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr><td class=\"\" style=\"vertical-align:top;width:600px;\" ><![endif]--><div style=\"font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;\" class=\"mj-column-per-100 mj-outlook-group-fix\"><table width=\"100%\" style=\"vertical-align:top;\" role=\"presentation\" cellspacing=\"0\" cellpadding=\"0\" border=\"0\"><tbody><tr><td style=\"font-size:0px;padding:10px 25px;padding-top:5px;padding-right:5px;padding-bottom:5px;padding-left:5px;word-break:break-word;\" align=\"left\"><div style=\"font-family:Arial, Helvetica, sans-serif;font-size:13px;line-height:22px;text-align:left;color:#000001;\">Dear&nbsp;<img data-value=\"[#[IsOwnerSchema:false].[IsSchema:false].[Element:{bd696ba9-8680-4fc1-9890-d6440169684d}].[Parameter:{56f8fad8-59ed-4f79-bd21-cf10f5a5ec0e}].[EntityColumn:{a5cca792-47dd-428a-83fb-5c92bdd97ff8}]#]\" data-type=\"ProcessParameter\" alt=\"[#Read Contact.First item of resulting collection.Full name#]\">,<br><br>Please find below your login credentials for accessing the site:<a href=\"https://skf.creatio.com\">https://skf.creatio.com</a><br><br>Username:&nbsp;<img data-value=\"[#[IsOwnerSchema:false].[IsSchema:false].[Element:{bd696ba9-8680-4fc1-9890-d6440169684d}].[Parameter:{56f8fad8-59ed-4f79-bd21-cf10f5a5ec0e}].[EntityColumn:{dbf202ec-c444-479b-bcf4-d8e5b1863201}]#]\" data-type=\"ProcessParameter\" alt=\"[#Read Contact.First item of resulting collection.Email#]\"><br>Password:&nbsp;<img data-value=\"[#[IsOwnerSchema:false].[IsSchema:false].[Element:{bd696ba9-8680-4fc1-9890-d6440169684d}].[Parameter:{56f8fad8-59ed-4f79-bd21-cf10f5a5ec0e}].[EntityColumn:{c5d7c4d3-f308-40d3-8469-6ab6882bd70a}]#]\" data-type=\"ProcessParameter\" alt=\"[#Read Contact.First item of resulting collection.Recipient's name#]\"><p>For security reasons, we recommend that you update your password immediately after logging in</p><p>Thanks &amp; Regards,<br>Smit Suthar<br>Senior Developer<br><img src=\"data:image/png;base64,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\" aria-label=\"undefined\" alt=\"undefined\"><br>M: <u>+91 8529884225 </u>| E: <u>smit.suthar</u><a title=\"mailto:smit.suthar@qnovate.com\" rel=\"noreferrer noopener\" href=\"mailto:smit.suthar@qnovate.com\">@qnovate.com</a>&nbsp;|&nbsp; W: <a title=\"https://www.qnovate.com/\" rel=\"noreferrer noopener\" href=\"https://www.qnovate.com\">www.qnovate.com</a></p></div></td></tr></tbody></table></div><!--[if mso | IE]></td></tr></table><![endif]--></td></tr></tbody></table></div><!--[if mso | IE]></td></tr></table></td></tr></table><![endif]--></td></tr></tbody></table></div><!--[if mso | IE]></td></tr></table><![endif]--></div></body></html>",
+                "GS5": "af4ab872-b506-4546-ad90-c9425f44ca53"
+              },
+              "IsLazy": true
+            },
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+              "UId": "f9480474-1cf8-410a-9789-3ae85229478b",
+              "A2": "BodyConfig",
+              "A3": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "A4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "IL2": "6fa5567d-6635-4ca8-b62d-f4c7bab6858a",
+              "L1": "394e160f-c8e0-46fa-9c0d-75d97e9e9169",
+              "L8": {
+                "GS1": 1,
+                "GS2": "{\"ItemType\":\"sheet\",\"Caption\":\"Content designer\",\"Width\":600,\"BackgroundColor\":\"#ffffff\",\"SheetAlign\":\"center\",\"BreakpointWidth\":480,\"Items\":[{\"ItemType\":\"mjblock\",\"Styles\":{\"background-position\":\"top center\",\"background-repeat\":\"no-repeat\"},\"Items\":[{\"ItemType\":\"section\",\"Styles\":{\"direction\":\"ltr\"},\"Items\":[{\"ItemType\":\"column\",\"Width\":100,\"Styles\":{},\"WrapperStyles\":{\"vertical-align\":\"top\",\"direction\":\"ltr\",\"width\":\"100%\"},\"Items\":[{\"ItemType\":\"text\",\"Content\":\"Dear&nbsp;<img alt=\\\"[#Read Contact.First item of resulting collection.Full name#]\\\" data-type=\\\"ProcessParameter\\\" data-value=\\\"[#[IsOwnerSchema:false].[IsSchema:false].[Element:{bd696ba9-8680-4fc1-9890-d6440169684d}].[Parameter:{56f8fad8-59ed-4f79-bd21-cf10f5a5ec0e}].[EntityColumn:{a5cca792-47dd-428a-83fb-5c92bdd97ff8}]#]\\\" />,<br />\\n<br />\\nPlease find below your login credentials for accessing the site:<a href=\\\"https://skf.creatio.com\\\">https://skf.creatio.com</a><br />\\n<br />\\nUsername:&nbsp;<img alt=\\\"[#Read Contact.First item of resulting collection.Email#]\\\" data-type=\\\"ProcessParameter\\\" data-value=\\\"[#[IsOwnerSchema:false].[IsSchema:false].[Element:{bd696ba9-8680-4fc1-9890-d6440169684d}].[Parameter:{56f8fad8-59ed-4f79-bd21-cf10f5a5ec0e}].[EntityColumn:{dbf202ec-c444-479b-bcf4-d8e5b1863201}]#]\\\" /><br />\\nPassword:&nbsp;<img alt=\\\"[#Read Contact.First item of resulting collection.Recipient's name#]\\\" data-type=\\\"ProcessParameter\\\" data-value=\\\"[#[IsOwnerSchema:false].[IsSchema:false].[Element:{bd696ba9-8680-4fc1-9890-d6440169684d}].[Parameter:{56f8fad8-59ed-4f79-bd21-cf10f5a5ec0e}].[EntityColumn:{c5d7c4d3-f308-40d3-8469-6ab6882bd70a}]#]\\\" />\\n<p>For security reasons, we recommend that you update your password immediately after logging in</p>\\n\\n<p>Thanks &amp; Regards,<br />\\nSmit Suthar<br />\\nSenior Developer<br />\\n<img alt=\\\"undefined\\\" aria-label=\\\"undefined\\\" itemtype=\\\"http://schema.skype.com/AMSImage\\\" src=\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHAAAAAjCAYAAABM+o4SAAAAAXNSR0IArs4c6QAAIABJREFUaEPtm3ecVdW597+7nT6VmYGhDQ5DEwRRbCBNUbAX1CtYUMASNcaWmOSW3NTrjTe5SYwVuyJWBCyIAoKCggWkRFQ6M8MM0+f03d93rX1mIMm9n8+979/v5rM5Z/bZe+211vM8v6es31Js3/cVxOGjyNMrfBef4lTwHQfHcfB9MIwQim7I6y4a3ZaPr6lomrgSXAVXtqP+VXviN3GHWvhU0F0NzdGD1/iiDx4oPigeaKIxeRE0NWhc9MVHnuK7qrjgZQEnuK/Qg8LNhUtqoW3xjt6Hg++KAkZE9tb3fXwv6LOqFPoqvnge+H97ig6Itgywo+CH5SvFRLrikWAiUHAwDDE4R45JXLdVVc6bgy5nIiqGFwwoGF8w0II0gq4fewa/HT0UR/S88OjRxzzZlPjbdWw0KTBV3uXYNq4rJlrFV3UcXwdNQdd67gDHt7DMHLZtUlSUKHRJyCMQoBwpKqqvoinHTrCQoYvrO7iegy+UQNNQxETLWVWPysBXUBQPTRUK40kByMEVRhf8raCqqpz/nkMKqucmRcEIhQuT5eOJG6XAgkZELz1XiFfIWqifL9uT/ZHzrIItXiq0V8VXVFwlmDnRN6HMQskCoxACVHAVDUfRcKUAISLaPEaAx5pSQaV7Bfi3wpN9dD2vIMCen3vkKzQU0uk0mq5jGGE0Te8VdUHJpLEIo7NNE99z0XQFTUhTLwzSFRNcuNsPlCCweTFYsDXwCgbW06Zo0ENYvIcmJisQtxCH/BfYR2DrYv6Okc8xuhl8PVZb//Zv1QfNs1EVvyCUo+gQWMPRtsUcBzMVfIqvKhYRLYeCXcAbDV9Ch2gnABBNtC2msjBmT9Gl8IQ1iusGHopQnMI4e9CjBw8laAjrPmYsf2WBnuvIv4+92Kt/QusUBctxMS0HVROC1KSCWo6PYjvoeZOIpqIaOohTWIrvguuA54AR6rXeAFuEAILDViGtujjCeqWcPMQUBNAbfAqlED9pBeHpavBNdFgIMGNb+MHDgZXI86ggBPT/14eCpnjoniUnWVU1FFVYkuiBsBkF1w+sTbxHzIkrhCg+haFK/baI6N0o5HsF56NLRZPK5isYSgCVqtBSMTq/Z4RBr0QfetXkvxFir3z+RpByzL5jCfUrCDDouJy6ws2io7YbDMAQSNozGCDkQ1iYQM8hrM22cH0XTThFiavSmRWgs+A6CtpiqeCEhRV5gcV5DoqwYiXQY6nLQltcT06GFJ2qF5yNUE0LImImC0LqhaKeDhV8WCDd4OJffYq2C88qAQwiUMIHxxMKooJm4Cs6vqoFn4XpDizCwaMTMAuKKUSlBQL0VSm0sBaWrkL0X1yTozrWWtRjBHhs/47xhT1ocKwge0fo23mpS1LnFVVCgRSiGHuPbhSMRrw3a0Iq7UjNLI5pRD2fiBinFkyQK3yIUAFNRVEVfIk7inQtPdKXsCDuEpofFu9xAsASgldED0RbhYCj52Yxo7JpESkICLDBSYPXDuQC3+V5MhBxXTcISnwfXRewf9Q6pQB7fJhQXDF6oRTCPQi00MVpgCpOTQoQRZeWWVCpYDxSfD6m/L8HswSwF6xfWK+voitGIEwpwCCMk3AqXyww9ligLvSt1yJ6/i4o39EpPHqHb+UKFqjiSfgQUVIQSckYVIWOJDQ2tdB8pIXDzU0caWnBsizCIRFBWvQpL2FIzWCGDq2lX78KwirkLIdsOk2f8tIgmPQL8ZWYZDm5YHguhmMFTjTAgwB+BfQKa/ZcyOXxTQszl8e1HDzHwzZt8rkcttVBsnMXCmnZpud5vWfwDq8gwMDHibMnCBHjEoNLlJZJ4RmGQSgcIRyNEorE0EMRNCHQcCQQrhCkPHsQRUxqFDfaH1uJBmr/Vw63xxEIiysITiJKwUTEOIXgBUr9ncCOvXTU5Rxz9RgB2rmCBWpSgEHsVAiHgd37uvh8yxY+3bSZQw31ZLIZcrkclmVKC/IEShoaFeXljB41ktNOPZlxY8cwsF8V8ULf5Fz5roRHERJKa/M8wo6Dks2D4wapg2NDPouVSZHNpLHMPK1HWsjn8+SyWcyciZW3yOXyZDIZ8vkOKis9FEWkEoGVHf0MZtMTPlQqsiIRoUeAqvSbPuFoSP4urgtr1UMGuiHOkAzGioqLZeoUicaIxWKEYnGIRgJ/opVBfAQoRUGq0YuNAZq5io4nAxZhGAVHIlAGB80X0C0EGC78cgy898btR3/6r4Qnx5pLdviRRBGg096ZpKi0mLyYRxu27dzHinfe5bMvvpBWlyhOoOsaqgrhkEHedVCLijjU2Iji+5QVF1Ecj3DS2DFcdtEFnDF+lByXZ2YpjUbIZZNovkskHiXX1UlUaHRXBrqSJFuaaGo+TEdnO8lUtzzTmbSMeYQ/lROq6fIzHk9QXFpKvCgCIRtNGEo4RCQSIRQSQRM4ji1PoWjxeBzD0DEtUyqDQI9cLouZTeLk2oiGhGBFimTJZ4RAReop0EBYcVS0HQ7JsYtxi/ZisSiuUY5XPBIj3o9waXEAzdlcAMORBJ6noUZKSeYdfM0gZOh4thXMgRHAqG37GGGRDQp37OC4LrpuBDGEgOh8Xo5Ntn1M+iPuty1LGEbet0SUohiYtk8kHmJ/fZIvtu5kzbqP2b7za7pTKeLxKHV1tdQOHUL/6ioS8aj0XE3JLE0t7bS3ttBUf4iGA/tIRAzOOnMS0yedzoypk4hqYPg2+XR30HHPoX7/XnLtnXQdaKSt4TCHmxrImVnCkTCJ4jiJ0iIp6AEDBxKKRogVJUgUFxOLJzAErAl4E1FvNCah1ndsCZ/SmoTfC7Lx4NO15cTJtERMjKYFxQkzieZ0YWU6SSW7yecyeK6N61iY+QxWLoOmuOSzaWwzR0hXpdsQ/l7XVHwjgVI0AD1aQkkiQVRAcCSGWt4XIqXYeYW8WoQe6yNsXSKbmc1SHA0RUjxy6TR6OCGVMkCLHqgPuh5E0D5aIfcMiilBLirHIVDF922/sztJOCImJoRIKtas/4rlb73Hxxs3YTseJ508ntNOm8DYE45nWN0QystEPBj4SPGKxmbY9Ze/8M3OnWzf8gW7v95B3NAZPayW79+ykHFjjxcZJ7mmBpobD7L7m7/QeOgA3R2d6KohraaqXyXHDR1C3/59icajGLEQ4VgErSgRjEZXQQhGWK2AABncCEElRHwsgxdZiCikFAGc9cBaTxYlwg0X27YDyJQBhIDwjEhkC/d7+GaOXKYb28xIqBPfrWwK28ySTnWTSnZJpYnEDTJOilgiTFFU+EHRZoREWTWJylqUeH8Odfh8+ZdDWH6Uk8afRm11P2RYZeWCuMCIBcFiIfCSaKMpuI6HaeaJx2O9gNrj50WQ1gP5St7N+6l0lpLiMqkhO3bV88abb7Nu/Sd0p7LU1NRw1ZWzmTp1ImWlCpGCXxPaENZ1clZgCJYJLU1pNq5fx9JXX6GloYExI4Zx7rQpTBg3hvYjh2k4uIfO1may6W6OqxlMRd8qoqWllFVVUj2gH6GSoiDQEz2JhoKUUfhNGVCJqZe1mSCykql8mHxOCNMoDEiT1iGsUFSLPN9B01Qc56j1eb4QoCV9YiikY1tZdF0hpOvBq0URwc2hCh8lZtrJg52XbsDMpcimU2TSSbKZFI7bhes3oykZfMvCs0UUrONrRRRVDaPyuJN4b8M3PLn4bTJWmNtvu4tLz5mOaNpNd1FSVISriapMMEyhk8KwenRQuB8B5bbM4zxCISOIzwsRtvTned/1s/k80UiMIx0Z3ly+kuUrVvLdngPUDR3G3LlzmTZlEgP7aSSTNq6VRlddIiGF4kQpyS5RyRA+QiVkQGtTmmVvLGXntu1UlpXRv6qS8pJimhvrScTCDB5YTWVFGaNGDofyMlky00qKpfV4tkkml+6N2G3XxgiF0EIGmszBVJl5iVMO1teJqfFAzoUKWE+WIAcpCgOqQiabwjRNQmGDeCzQaPGb6Xh4qlAU0baLY5sSPmUd13dQRWDlO+iqj+/a0ifGY2GZXuQz3bS17sV3D5JPNZBqb0P1fHQlTFfKxQlV0rf2JJ5f9jFvvvsJvl7K7d+7kysvupCE0JRsN+FQiJSAMD1EOKRJgBFHj+DkuETGZNp4rkPIMILI/9ggNet7fsbMY4Si7Px6D88+/zKff76NTNbknBnncO/d36eqT6CMuayNodokIiJZtYOShBoDR5i8KKOFSHen2bZ1O9/s+lZGjCIPjIbDDB40kNNPO5V4VUmAbD3RuC4fx3Z8GUCEwjqqtDCPtJkmHBa1yoLWFQraQUlNk9VEOy+qN0ExXZZsC4fIQoTlmVaeSCQsA4hjqtrYrkXOdFFDxb0TZ7lBVC+6Jiw+2d1JLBYhIgr4Iu/zRRCUlQFRRA+jkcV2DhHSc9hd7eSTSRzToamlm6yfoHLIOBa9/B6vvb0exSjh7jvvZu5FZxIRPUlnZeCUVULSCkX3JHI4gcUJKwwZwXUZT8kgR7gND10GOAJlXJRu3/FFqczzdT7asJlFi56jpbWTPuVVzJs3j5nnTBCpHmEdYgZSgKIG6Ntpkt1dKKpBUVEZnq9y4EA9+/bVk8vbZDImhw+3sHv3XqKxBJdfMZtJk8bR2ppj7769xBMxautqyds+u/fsYe++PWQyaSJhg8rKCobUDGLQwAGBc3dF6iEGZEiLMk2XZFeSVCrD1m07UFRVwksiEadPn3IqKvpQVl5CJKKRTudwXYdUulu2L6LHqqpKeX8+L4IblUQiQjrjUF9/SEaqffv1le2Il4oJ7ExlaGlt4fDhwzQcbpCRbHV1P+pqh3DcoGqKQhqdzQdpb26gb59yovFiuvMKdqiMBx9fzFurN+D4BvOvv465l85iUJmCIXyOqEQZYToyPs3NzbS1tdLd1UU+n8PQNWLRCOVlZQwc0J+qyjKJOsJQxG/SjYooNOUHtXnLg6XL1vD7PzwiDWvM6NH88N67GT28jHS3TVFUIRFSJYQqno0maqJWHiWk0traxt599dQ3ttC3uoZx409l17d7efyJp/liyzaiiSJ+/JOfMnnKKaz98HNWr16D7bqMH3ci2WSKHTu2sXvPN+QFEhghqqurOWfG2cyaOYN+VWVSA4UCiTimqxO2bdvJ2rVr2PLVVjJmjnQuKyc1lkgwfMQIJk48g0kTz2BYXZV8dsOGz3n3nbdob2th0qSJXHzxRVSUl9HZnaakOCEWU9j17UFWrHiLvfv2cfzoMZx9zrnUDR9IKgvvrnyf1WvXcuRIM2Y+h5nLUVZawuDBNVx22T+Q6kqyef1a0p2tzLnqEqafNZ36I618tuM7Hn/hTbpyDmooxHGDq5l66mhmTTmVof3KyWVNjqRdtn2zm02bPmXHju0cbqwnn8vKlKg4kWDCyScz8fTTOOXkkygtKZKFd+G+glTJRWlPu34srnKkHd5Y8QGPPvEcjucy4+wp/Oi+71FeBHHDI4yJZ+fwTJGIhlAV4Qt8WjoO4ikeeRP6VA3CiBTJwGbfoSO8+vqbvPz6GwwachxTp53FjfOv5pWXV/Hccy9SWlqBbzt0NjUysH8lTe0HKavoQ85SsGyPyooKpkw+jYXzr6QoHiIqLKEdPtm4gzeWrmDL9i8JixqeahOOhtEjMbrTWVnDjCeKOHHsGOZedQWnjx/E0tfe44lHHuJIUwNTp0zlR/f/iME1AyVW5kWMpMH69Z/y4IMP0tzcwviTT+PW2+7k+LE1vPTKepateIfGxsOEDZ2wqNP6LlYmieMrlPcfysDBdbQ3tbF9y2fMv2E2//xPN/LckndY8c777NrTQp++A+hKtRNPKOh+klFDB/PQb38vysZ8/Nk3vPr6MrZs/ZyiophEg1SqGytvSqg0VJ3+ffty/sxzuebqi/Adn1hE6Q12lO6M5xsRRebTTzy9nFeWvk3eNLnggrO59+55lMZAc5PorgipPQwlgqLEwA3juBaW34Xt2eRMCMfK0UJxWVzYV5/j8aeeYfW6ddICz505i3nzruSlxStZvPhVIuEEMd1g5OABjB87HEtNo0XDfLVjL5s++4p8zuKUCaO5954bOH74EPJph40fb2XVqs189vlWCHmMHFnD6aeOJRwxcBSdPQca2LV7P/sPHsJQVaZMPI3bb7qRjuZGHv/zn9ixbSuDBw9m/oKFTJt+FobInw1R9oNf/fLXbN2ylUw6x9TpM/j+3Xfz6Rdfs+TVZRJFYtEoY0aOYOyIOo4bUEWuq52Wji7e37SdrowLlo6ZSXLxhVO49755vPHmMpa8spTWdoe+1YNIZTtQxdKT383xw4fywC9+R1eHyf3/+GuaW9vJZpNUVJYy7sTRjBoxgkw6zc7tOzi07wDZVIpxo49nwY3XcvK4OmKRIOk3zSxK2rJ821XB0HjgwedY+cHH5CybCy84h/vuuZYSkWP6WSlAQxSfCYGn47khPFEsjopoz8f2dUxHI5OHRJHKgcMmf370MT75bDOZXI45c69h7twrePGFZSx9Y4Ws/NRUV3P7DddyyoRhhBLgqPDBh9t4+pklfPPNbobUVHPzTZdzyXlnsXdvI08+sZiPP9omNX/6zCnMOudMJp10vKxsidWab/d3snnrTj5Yu44d27fTr7KCG66Zw/QpZ/LKSy+y8t13aWvvZMY5M7lhwUKOqy2WvvUvOxu4/0f3ydJdaWkpN8xfyJnTzuTX//5nPtuyjY6upISxSy6YxSljj6e6ArJdlvSNi99ew9K3VpNsyVIUDTN50gn8+Cd3su/AblZ9sJ4NG7/GU8KkMh3U1lYzZvQgRtXVMvWM6bz26kqeWbJU5t4jR9ZxwYUzmTL1RPokwHShsT7HU48vYsvnn8tCxCUXzmLBjXPpWxGWea/v2yKNyPqWo6LqYR784wssXf6+XOubOnWShNCKEhGumxh+DkMsfXgi4hS5VkRSKzqSbWTzJqXl/QgZIVJ5ZGnr6+9aWfT0U2zZ9hXpbJo77vg+l1wyk6efeo23VryLbfmcfvJ4/vEH32PwoJAsCIjgdOe+Th59/Hk2bthMNKKxYP6l3HjNbNau+5Tf/8cj1Nd3ccKJJ3HTbfOYelotYQ9ZPBfPZz3Y15DivdUfsmLF2zJoOX3Cyfzoh/eyd/ceFi9+iQ8/2kBt3UhuWHgzF80aQ6oLFj/3MivffYtUdzdnTp7IfT/8EfsO1vPw40/wl+/2UFpexrzrrmX2JVMoFlGz6eHmk8RKStnfkef3f3qST9Z9jup5TJ40ll/+8ofSZx9qzvDb/3iK3XsaSGW6ufTSmVwz50L6lYdId8G99/6C/c0dZCyT004/iblzr+K42hJaW/PkszmK40Usfe0Nvti8mcP19YwdPZz7f/gDaodUIbIJWS7Pua2+ribIegZLXl/JE0+/QiptMmxYHXfdeSsTThyM4looblquU4hIUCy/mJZPzrR58eWXZTAwevR4zpg0ndJiXU7mqrXbeeb5Z6lvPCTLcPf98D7OOH0cjzzyIiuWv4Nlelw8cwb33zGfaMQjaXYRipfQ3Grz2BMvsn79JvBt5s+/jOuumc2Lzy3h4YefRDfKOGfWTG66fR79+4Qockx8M49vxPB1A7E4tm7DNp569nn27NlLzaDB/OxnP6O6ug+vvf4Oz764BE81mDRtBnd+7xqO7G/hiYf+QEtzI45lcs89d3LRxRN5/qX3Wbp8Od/u28PJE07mzjtv46RRA7EtBzPVRkR1iJeW063EeGHJCl57cRnd7e2cP+tMfvrTe4iGNOlf//Xni9i0ebt0MzfccDVXXzUNYQeNe7v5l58/wHcNTfiGRv8BVfTvX4XrmWSz6aCyJNYkLZf2I0foam9nWG0N//LPP2TsmBoZnJn5LEp3dr8fj/ahKw9bduzj0UVLZD4Yi8a56opLueOWy4K8SEyUbxKWOZFKe7qbQw1H+Md/+SV79tUzevSJzJkzj2nTTyOTgxdfeoOly94gne3m5JPHc9vtt1JbO5BHH3mWt1e8i+9pXHvV5dx7y5USmjNeGlUt4kjS4z//8BQbNnyJorrccMMlXHH5hTz68GO89upyikv7c+75s7jl+1fiZnPUiMTazmP6uoz0hPJ8vqOeRx5fxFfbttOvqi/33HMvkyYN59PPhVU9xTd7RcBUzQ3XXUd34yHWvLOCro4WJowfxy9++U8UFcGSV9/jmeefozOVZNb5s7j1loUMrIySy2SoiIfRyZP1XNJqEe+t+ZSnHnme5voGLr90BnfddSuqruC4If7tgadY++Em9JDGzTdfz+WXnkmmy2TP14f43X8+QksmR9ax0HRBq3DI5dJ4orihqnLZrLK8EteyySS7GV43hHvvuo3JZ4yR0J83cyidqd1+PFFOMq/RkfRY9vY6Xlz8BpblcvzIEfzg9puoHVJNRWlhndC30RSNzmyShqY2nnz6ZTZ+8iWW7TP+xFOYMvUsuTr93qqVMjUQyfU/XD2b2bMvIxLRWfTEc7y14m00Ncy8OVdw6zUXo6s58lgoehGtnQq/eeBRPv30K7kMd/MtV3HZJeeyaNEzvLdyDa4X4YwpE/mnn86XkFviWviCj6OFcdWQXN7auHkXTz7zLF9/vYshgwdzx+13MHHSSDqT8PDjL7Fy9TpMX2Xs6NF46SRNB/YRMeB7tyzk8kvOkAr4/pqN/OGhh0imM0yeOpn5N17PkMH98M0MlcUxDEw6RDE6UcHy1Zt49A9P0tXWxmWXnCUFGIuGyP7fMuOvf/Mkqz74mHDU4JZb5nHtlZMRNeqtm/fwq9/8jqTtY/kuQ44bwKhRw+WYu7s7ZWkwEU+g+poI9kl1djCwfxWTJ05g3NhaaYGyFtKV2uuHoyXYfhRPjbH5yz387Of/TjqVl9X1yRNP5byZ0zn9tDpZ1klmMoSiIbkAmnNh2/YDvP3uWjZu2ERnZ5IhNbWyerJ3726Ki6P0q+7D925byMQJdaRMeOLx53j9taUoGFxz5SX86HvX4FpdZD0TLVpKOhvlgd8+yebNIkF3ueHGS7nsshm88NwrrFy5hkMNbYwZdwJ/ePTnxEVdO5slomqEImHE0nDGhA2ffsULLy5m/759DB1Swx233cYJY+uIhOCZJWtY/MobZCxXVokExUisP55y0lh+ev99DOwfkcuTH6zezGOLnuRIWzvDR4xk4YIbmXTqsADW8ha6bxGJJ+jy4ZkX3uH5RUtQPZeLLpjMXXfdQiKm0Z52+bcHFvHh+k1EojrXXjubuVefJ5Xlu50N/Pa3f2LL198xfNQoLrv8ImbMmEi8CFKpoAYaiQjBQSIqlkk9KspUuWwaDYt7kiQSMRTP7/LFMpLlhtDCMQ4151ny8nLeW7UWK2eSTSU556ypzJ59EePG18oFajFR4gxYo0KIKV54/iU2bfqMeDQuCz+ZVBfRmMF9932fCRPGUVwiqiXw618/zKr3PiAeL2H2BTP58R1zwc2RtNLE4pW0dMNDf17C0jdXUd6nhBulAKfz1dbv+I8H/8g33x1i9LgxXHHtRZw1/QwqwwF5RzAIRFH4u32dLFu2nNWrP6CrvZULzp3BzQvnM7SmgpwNbR15nlv8Cq++sZyi0lKy+QwVfUpZcOP1XDhrkmxEBAjbdh7igQd/T2tHEsf1Oe+887jumquoKgc7I3JjGUiz/UCaPzz0JHu/PkA22cU5Z0/gxz+5g+I4HGhK8fs/PsfuvfW0tjWyYMEcrrv2AsQS7ne7DvLsMy+zYfNWybe55NILuP76uZSVIRFA1JVFgaG70+eD91bReqSJqZMnMfHU4bKsJpa44rEoimV2+YKskxMUMSMqV2u+2ZPi9deWs/r9tYJ3iKGpVFWVMfL44Zx4yjjqRtVRUlGKouk0NmY5eOAI7618n88/+wJd00nEYpSXFVE3dBDXz7uakXVxOXkCOh5++CnWrFmPpoW5eObZ3HPz1Wjkybg5QrEyGpodHvrzC7z99lrKyotYsOBy5syZQcsRk6efeoEP1nxC1soz6ayTOOvsyYwaOozS0jLpcxqaOlm3/iPeX7WKjtYjDKquYsF1c5l25hkUx3VsR3B6PD5Ys54lry3lQONhcp7JxDPPkGWuE4YPxjQhERYRZJqXX3tT5oGqFuLkCacy46zpjB4xjNqBcXQfvt3bxqIlr7Plq2+xUi6q5zBl8hh+8pPbiBXBwfpOHnviVbbt2EVbZxO33not18w5XwqwpbmDD1d/wpJXV9Dc0s7IUXVcfOmFnHb6BAb0TZDOiyW671i+dDmfbvxU1kXnz7uOK2ZfSFFUxbLzREVAaeezvh4Wi7OQsQJSlgDYXV+3sf7Dj1m/dj3pZEpW6sOxMNHiGEpIkSU0LRQhnRR1yhDNTS10dyVJRONSczRNVFNKuOOOhUyZOkZSXJJJi0WLnuKdt99DUUJccfEF/GDBHGIRHz8k1saiHG7zefKp13h/1UckEmGuuOJsrrryfJnrbdzwLcvfXsvqD9dA2KS2robBg4dQ3qcSRTPYf/AgW7ZspamhntEj6jh/xjRuuv4ayosjkqbqCTKUprB3/2EpwFeWLSNcWsSCm+Yz+9KLEMYsylvFsbCcC1Fe++W//U6WCEV1qG9VX+pqahg1rA7PyrN1+w72NbXieAZ22iNqqEyeNJpf/fo2CYEdaZ///OOzbPhkM53JI/zgroVcNfscDLFkZak0HmrjV7/5Pd98uwfHMxly3CAG1QyUdVaxLnikqYUtX3xF8+EmRtTVyUBq1sxJsrCeTXcSFXQQ3/V9WVMLaZIk25E00QxRvYdMEta+v54tX2xl27ZtZHIZ9GgIR/XIOXlZtsqkLCLhuFyY7VNWweABAyWbu6F+H8lkG9OnTeSmm2+kZkgFqZTDs8+8wKuvvSkXPq/5h6u4fd4VElo9zcJVQuypT/L8C2+yauWHeJ7J/fcv5KxpEykrjpJKw9avDvDGsmVs2vIRrZ1HKCouk/mo6bg4rkc8GmPI4AGcM3Uy553a1/FTAAAGXklEQVQ9ldoBfXByebmaLnkwqrjXY+X7H/Knxx5j0PBaFt68gPEjhmM6Nr5tE43GsJyAWrjpy12sfH8dn3z6GV1d3RJGwoJaoankTIvxp0/EdlR2fbWbsK5w5sTj+def343MFRSVX/zqYVav/QjTSXH3vbdw+WXTpN+NayWSgrhj5yEWv/Qya9etxvUsovEwmq5KZTNNm5AeoX/faqZNmcLFF55HbU0llmPi2hkS0VggwI7OJGpYJ5aI9fo2AfGivhkLwY5t9VKIew8coKG5iaa2I6StHJqhy1B3YP9BjDthHKefcjo1g2uoP7Cfle8uZ9Omjzlv1tlce90cBg6okgXYTzZvY83aj1C1MOdOm86ZJw2T122yeLpOW6fHxxu3snXLTlwny5w55zJiWA1hPSqXcC0Ltm47xKdffsz2Xds50tpGOpsnk89TUVHJ+PHjGTdmNKOH11E3uB+GqFtm08TCgrykYLk+oWiU3QebeXXpmwwZOoTp0yZTWZwgU7hPePac6RCNRUnZ8NHGrWz+fKush7Y0H5YhfVWfcgbXDOasmbPIZhw2ffQFYV1l1MhqrrzyfLL5LhJFpfz7g0+z/uNNKLrDwoVzmDHjFAm1MbWISCiMLRgQ677g443raWg8SFtHqwxQRFE/ES9i9KgTGH38aCaMP4lBA0WxRKwo5dE1we8WRAfL9/OWhaM4kqEgrhpqSJbHRF1QcXXikZiMnNI52F9/hINNjbiaQnFpEYmYgCeFeDRBn9ISimIBM7CjPUNHR7NMxuuG12I7ltyH4LoajYdbsV2FAZVVsrLhuSYmacLxOB4R6S/TaY+QIRZkOymNRWRagxeVEa6ou3bnchw+0khaMORsV5b/SkpKOa52KOVxVQ5ODtD38G1T1kbFCojpQDgekwn/3n2HKUnEqKooldQJz84Ti4g+Bu2JoE7RNARvryvp0N7eQVdnO55ryWWj6v7VKILJpkHDvqQspcUiNhV9YiSzHcRjffjiqwNs2/4Nqu4xefIEagf1wXUFVVLH0CNkXYhEkYLcf+Ag+w/sI2fmpF8XiFZe2oc+5eVEjWBx17UtQobYgCMIW1kUx/QFYQoLh1SuC1d1CswzjYgaRcNAcH9dW5U0Oz0alK1kJCo3EXmSIKSrupwkzw4WRUUpyRP7DlThIz06kp0YoQjRSGmBNB8wJ4TfEbCUJ4kn6BBaiWRESxqMjGfbEEu62ZyJShxVKZO83lA0iIIt8W5dl30RfFnBmZJJrqDVuRalklPi4Tk2pu2hhGLSVVhKUIITAYUYjIA1xbdlwUKVq7qirmuRdX3iJaUSJUxJsXHRVJ+Q4JiKuMHJEdMTkiYRljwjB9dJk80LZkGMSLSc1lYPPaRSKsqSkgrm4eYConDK8QjHVbmEJ6AxHAlJbrflOeTzFpGQIG0FxWvfswkbSPaDoPW7rikUNGDcZvIZBLtALJjawh7SGcoSZfiuQkgTWBvQN4WmCEvtIf4KqBWCCqkBX0McIvEU61a28JOOoGtEcDxbluB8DAlPERE4WYKrJRgKQhMsyXmxxXYPX+xIEqvuNhqihGdj5h2ikXLwI3R15wlFxVJSsO0rHIrIgrDwSaFQRHKeenjUrrA+Q5e8UrF2H47F6M66dGXy9K+My/fbGZtwRAzKJtXZLheGlWiEVDJFrLhUTnneFv1XCeuG7GU+JypHgo2hYWhhnKyP4gneiuChivVSHccRjPQiSSKX5DkP8rku2YZBFEVTMUUKpMq9SxhiwROBdGnJ6SlJCKqJUEZB71CIhgX3QBCYTRw3H/B/PCHAAkdESCmgiR+likvyUO+uor/meklhFXbZiO89AhQc0QIdG6WXruwHu8oKu4vkLeKfJOMGJP7gzQFhqbC5S+6xC7ZnBdvSROod7NgpsNB62xdDO9qLXmXqJVkU9hb2bvYK3hDsvwhm4K/2ABXoG8GWA8l3K7QU3NezmyTQ/5456tlfGfQtGIsQ+NFD0KZlSz1zWuhyDz1f9qGws0DOUA9ZubeJo3s4ZT+8wvayY97x3349ugevp0sBO+Xvj2OUoHczydFrwf2FNiT/5X92/N375bawnraO3T9Q2G3Zy9YOFOLv+3+Uzf0/68F/MdK/21Dzv2vpr+n4f/9sjwD/u1b/vwB7t3T97ya+5+7ezaL/b4//zX6K/70A/w9EbFr8PQfD0gAAAABJRU5ErkJggg==\\\" target-src=\\\"https://us-api.asm.skype.com/v1/objects/0-eus-d10-e382d7e4fcf4e3455c25fc60ce2422d5/views/imgo\\\" /><br />\\nM: <u>+91 8529884225 </u>| E: <u>smit.suthar</u><a href=\\\"mailto:smit.suthar@qnovate.com\\\" rel=\\\"noreferrer noopener\\\" target=\\\"_blank\\\" title=\\\"mailto:smit.suthar@qnovate.com\\\">@qnovate.com</a>&nbsp;|&nbsp; W: <a href=\\\"https://www.qnovate.com\\\" rel=\\\"noreferrer noopener\\\" target=\\\"_blank\\\" title=\\\"https://www.qnovate.com/\\\">www.qnovate.com</a></p>\\n\",\"Styles\":{\"font-family\":\"Arial, Helvetica, sans-serif\",\"font-size\":\"13px\",\"color\":\"#000001\",\"line-height\":\"22px\",\"text-align\":\"left\",\"padding-left\":\"5px\",\"padding-right\":\"5px\",\"padding-top\":\"5px\",\"padding-bottom\":\"5px\"}}]}]}]}]}",
+                "GS5": "af4ab872-b506-4546-ad90-c9425f44ca53"
+              },
+              "IsLazy": true
+            },
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+              "UId": "658e66d0-834f-4dfa-b6a6-c0a5cd386074",
+              "A2": "CreateActivity",
+              "A3": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "A4": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19",
+              "IL2": "6fa5567d-6635-4ca8-b62d-f4c7bab6858a",
+              "L1": "90b65bf8-0ffc-4141-8779-2420877af907",
+              "L8": {
+                "GS2": "false",
+                "GS5": "af4ab872-b506-4546-ad90-c9425f44ca53"
+              }
+            },
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+              "UId": "22e776c5-a3b7-4286-b5df-b57df57df84c",
+              "A2": "ConfItem",
+              "A3": "af4ab872-b506-4546-ad90-c9425f44ca53",
+              "A4": "af4ab872-b506-4546-ad90-c9425f44ca53",
+              "IL2": "6fa5567d-6635-4ca8-b62d-f4c7bab6858a",
+              "L1": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+              "L8": {},
+              "L9": "ad707075-cf25-40bf-85c1-f5da38cf0d5d",
+              "L17": "ActivityConnection"
+            },
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+              "UId": "454256c6-dd4b-4f42-8999-eeb7c8a61e5b",
+              "A2": "Event",
+              "A3": "af4ab872-b506-4546-ad90-c9425f44ca53",
+              "A4": "af4ab872-b506-4546-ad90-c9425f44ca53",
+              "IL2": "6fa5567d-6635-4ca8-b62d-f4c7bab6858a",
+              "L1": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+              "L8": {},
+              "L9": "5b4fdfc7-12b6-4b4f-a9bd-b6f1b6e4447f",
+              "L17": "ActivityConnection"
+            },
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+              "UId": "78dfd6d0-3e7b-4759-b5ba-d390c37b2aaf",
+              "A2": "OmniChat",
+              "A3": "af4ab872-b506-4546-ad90-c9425f44ca53",
+              "A4": "af4ab872-b506-4546-ad90-c9425f44ca53",
+              "IL2": "6fa5567d-6635-4ca8-b62d-f4c7bab6858a",
+              "L1": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+              "L8": {},
+              "L9": "af1f685c-315b-4b44-a957-c5094417a57a",
+              "L17": "ActivityConnection"
+            },
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+              "UId": "ee5ac68c-15bc-4a1e-b51a-ab2803766ac9",
+              "A2": "UsrUsrAppraisal",
+              "A3": "af4ab872-b506-4546-ad90-c9425f44ca53",
+              "A4": "af4ab872-b506-4546-ad90-c9425f44ca53",
+              "IL2": "6fa5567d-6635-4ca8-b62d-f4c7bab6858a",
+              "L1": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+              "L8": {},
+              "L9": "d23c5dbf-4866-4962-aaac-f93c5c4a2320",
+              "L17": "ActivityConnection"
+            },
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+              "UId": "959adbfe-a015-42e9-8cd0-12ae781003a9",
+              "A2": "UsrUsrEntity_6f155a8",
+              "A3": "af4ab872-b506-4546-ad90-c9425f44ca53",
+              "A4": "af4ab872-b506-4546-ad90-c9425f44ca53",
+              "IL2": "6fa5567d-6635-4ca8-b62d-f4c7bab6858a",
+              "L1": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+              "L8": {},
+              "L9": "46c4d9d1-9e7b-4f95-88d4-d74a2f034b1c",
+              "L17": "ActivityConnection"
+            },
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+              "UId": "23a56216-b37b-40d7-8f7f-f5eedd17bfe3",
+              "A2": "Recipient1",
+              "A3": "af4ab872-b506-4546-ad90-c9425f44ca53",
+              "A4": "af4ab872-b506-4546-ad90-c9425f44ca53",
+              "IL2": "6fa5567d-6635-4ca8-b62d-f4c7bab6858a",
+              "L1": "c0f04627-4620-4bc0-84e5-9419dc8516b1",
+              "L8": {
+                "GS1": 3,
+                "GS2": "[#[IsOwnerSchema:false].[IsSchema:false].[Element:{bd696ba9-8680-4fc1-9890-d6440169684d}].[Parameter:{56f8fad8-59ed-4f79-bd21-cf10f5a5ec0e}].[EntityColumn:{dbf202ec-c444-479b-bcf4-d8e5b1863201}]#]",
+                "GS5": "af4ab872-b506-4546-ad90-c9425f44ca53"
+              }
+            }
+          ],
+          "CL2": "FFFFFFFF",
+          "J6": "184dbb27-ce13-4d37-8dff-c2ff1df9cf19"
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaSequenceFlow",
+          "UId": "a9b5e94e-2c28-4c20-b16d-2b2725cb029a",
+          "A2": "SequenceFlow1",
+          "A3": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "A4": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "A5": "2ef9c21b-939d-4e9a-ae27-bc5ee59b5957",
+          "BL7": "0d8351f6-c2f4-4737-bdd9-6fbfe0837fec",
+          "BL8": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "CI1": "89ef29cb-4400-4323-ba8c-ba2fd63e1739",
+          "CI2": "bd696ba9-8680-4fc1-9890-d6440169684d",
+          "CI3": "null",
+          "CI5": "FF939598",
+          "CI6": 1,
+          "CI11": "81;200",
+          "CI12": "150;200"
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaSequenceFlow",
+          "UId": "1a1b2044-853e-48ea-8485-4a809720d4e1",
+          "A2": "SequenceFlow2",
+          "A3": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "A4": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "A5": "2ef9c21b-939d-4e9a-ae27-bc5ee59b5957",
+          "BL7": "0d8351f6-c2f4-4737-bdd9-6fbfe0837fec",
+          "BL8": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "CI1": "bd696ba9-8680-4fc1-9890-d6440169684d",
+          "CI2": "6fa5567d-6635-4ca8-b62d-f4c7bab6858a",
+          "CI3": "null",
+          "CI5": "FF939598",
+          "CI6": 1,
+          "CI11": "219;200",
+          "CI12": "404;200"
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaSequenceFlow",
+          "UId": "73f9b4bb-0399-4fbc-8e7a-d5e5973fb550",
+          "A2": "SequenceFlow3",
+          "A3": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "A4": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "A5": "2ef9c21b-939d-4e9a-ae27-bc5ee59b5957",
+          "BL7": "0d8351f6-c2f4-4737-bdd9-6fbfe0837fec",
+          "BL8": "af4ab872-b506-4546-ad90-c9425f44ca53",
+          "CI1": "6fa5567d-6635-4ca8-b62d-f4c7bab6858a",
+          "CI2": "c4830239-f419-4958-ad9c-f422d883dbcc",
+          "CI3": "null",
+          "CI5": "FF939598",
+          "CI6": 1,
+          "CI11": "473;200",
+          "CI12": "600;200"
+        }
+      ],
+      "BK9": [],
+      "BK18": "Business Process",
+      "BK29": true,
+      "BK30": true,
+      "BK34": "null",
+      "Labels": [],
+      "BK24": []
+    }
+  }
+}

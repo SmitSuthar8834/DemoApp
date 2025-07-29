@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Service recipients" />
+			<Item Name="Columns.Account.Caption" Value="Account" />
+			<Item Name="Columns.Contact.Caption" Value="Contact" />
+			<Item Name="Columns.Department.Caption" Value="Department" />
+			<Item Name="Columns.Service.Caption" Value="Service" />
+			<Item Name="Columns.ServicePact.Caption" Value="Service agreement" />
+			<Item Name="EventsProcessSchema.LaneSets.BaseEntityLaneSet1.Lanes.BaseEntityLane2.Caption" Value="Lane" />
+		</Items>
+	</Group>
+</Resources>

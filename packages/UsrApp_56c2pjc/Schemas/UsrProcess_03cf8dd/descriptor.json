@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "7225958e-8afe-434f-956d-b58300d8ed1c",
+    "Name": "UsrProcess_03cf8dd",
+    "ModifiedOnUtc": "\/Date(1728974289000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Send Email to SKF Users",
+    "DependsOn": []
+  }
+}

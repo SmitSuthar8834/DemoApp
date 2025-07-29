@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.AddAudience1.Caption" Value="Add audience 1" />
+			<Item Name="BaseElements.ExitFromCampaign1.Caption" Value="Exit from campaign 1" />
+			<Item Name="BaseElements.MarketingEmail1.Caption" Value="Marketing email 1" />
+			<Item Name="BaseElements.MarketingEmail2.Caption" Value="Marketing email 2" />
+			<Item Name="BaseElements.MarketingEmail3.Caption" Value="Marketing email 3" />
+			<Item Name="BaseElements.MarketingEmail4.Caption" Value="Marketing email 4" />
+			<Item Name="Caption" Value="SAP S/4 Hana - Public Cloud (Test)" />
+		</Items>
+	</Group>
+</Resources>

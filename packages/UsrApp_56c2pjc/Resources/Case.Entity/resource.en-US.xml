@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.Category.Caption" Value="Ticket Type" />
+			<Item Name="Columns.Change.Caption" Value="Change" />
+			<Item Name="Columns.ConfItem.Caption" Value="Configuration item" />
+			<Item Name="Columns.Holder.Caption" Value="Owner" />
+			<Item Name="Columns.Problem.Caption" Value="Problem" />
+			<Item Name="Columns.UsrBusiness_Impact.Caption" Value="Business Impact" />
+			<Item Name="Columns.UsrCategory.Caption" Value="Category" />
+			<Item Name="Columns.UsrSub_Category.Caption" Value="Sub Category" />
+			<Item Name="EventsProcessSchema.BaseElements.ActulizeConfItemsInCaseScriptTask.Caption" Value="ActulizeConfItemsInCase" />
+			<Item Name="EventsProcessSchema.BaseElements.BaseCaseSaved.Caption" Value="CaseSaved" />
+			<Item Name="EventsProcessSchema.BaseElements.BaseCaseSaving.Caption" Value="CaseSaving" />
+			<Item Name="EventsProcessSchema.BaseElements.CaseInsertingStartMessage.Caption" Value="CaseInserting" />
+			<Item Name="EventsProcessSchema.BaseElements.CaseSavedScriptTask.Caption" Value="Grant permissions to portal users" />
+			<Item Name="EventsProcessSchema.BaseElements.CaseSavedStartMessage.Caption" Value="CaseSaved" />
+			<Item Name="EventsProcessSchema.BaseElements.CaseSavingStartMessage.Caption" Value="CaseSaving" />
+			<Item Name="EventsProcessSchema.BaseElements.ConditionalFlow4.Caption" Value="Yes" />
+			<Item Name="EventsProcessSchema.BaseElements.ConditionalFlow5.Caption" Value="Internal user" />
+			<Item Name="EventsProcessSchema.BaseElements.ConditionalSequenceFlow10_7e64a88ff25d473fbff54091c982c39c.Caption" Value="Use embedded func feature enabled" />
+			<Item Name="EventsProcessSchema.BaseElements.ConditionalSequenceFlow2_4abad818d7a843a7ba7e586e7fe424d6.Caption" Value="Yes" />
+			<Item Name="EventsProcessSchema.BaseElements.ConditionalSequenceFlow4_98a32bafe1c84283a85492f207af86b2.Caption" Value="Internal user" />
+			<Item Name="EventsProcessSchema.BaseElements.ConditionalSequenceFlow6_6e6328c873a547898613b4d2d16acd6f.Caption" Value="Use embedded func feature enabled" />
+			<Item Name="EventsProcessSchema.BaseElements.ConditionalSequenceFlow8_625c2810e2a04790a78d261d17a8b47e.Caption" Value="Use embedded func feature enabled" />
+			<Item Name="EventsProcessSchema.BaseElements.DefaultSequenceFlow1_0eea08cb8c8a40108bfad901ae043365.Caption" Value="No" />
+			<Item Name="EventsProcessSchema.BaseElements.DefaultSequenceFlow2_1afbc59e309a411595b5691c04370f3e.Caption" Value="External user" />
+			<Item Name="EventsProcessSchema.BaseElements.EventSubProcess4.Caption" Value="Run event sub-process 4" />
+			<Item Name="EventsProcessSchema.BaseElements.EventSubProcess5.Caption" Value="Run event sub-process 5" />
+			<Item Name="EventsProcessSchema.BaseElements.EventSubProcess6.Caption" Value="Run event sub-process 6" />
+			<Item Name="EventsProcessSchema.BaseElements.EventSubProcessActualizeConfItems.Caption" Value="ActualizeConfItems" />
+			<Item Name="EventsProcessSchema.BaseElements.ExclusiveGateway3_eeb11eebd7ee4e4aa96f2501e46bc5f4.Caption" Value="Generate number" />
+			<Item Name="EventsProcessSchema.BaseElements.GenerateNumberUserTask.Caption" Value="GenerateNumberUserTask" />
+			<Item Name="EventsProcessSchema.BaseElements.GenerateNumberUserTask.Parameters.EntitySchema.Caption" Value="EntitySchema" />
+			<Item Name="EventsProcessSchema.BaseElements.GenerateNumberUserTask.Parameters.ResultCode.Caption" Value="ResultCode" />
+			<Item Name="EventsProcessSchema.BaseElements.IntermediateThrowMessageEvent1.Caption" Value="CaseInserting" />
+			<Item Name="EventsProcessSchema.BaseElements.NeedGenerateExclusiveGateway.Caption" Value="Generate number" />
+			<Item Name="EventsProcessSchema.BaseElements.PortalCaseSavingScriptTask.Caption" Value="CaseSavingScriptTask" />
+			<Item Name="EventsProcessSchema.BaseElements.ScriptTask10_74673f7095934bc6a5c37dad569b2515.Caption" Value="Set IsNeedToLogLifecycle" />
+			<Item Name="EventsProcessSchema.BaseElements.ScriptTask11_5a7aabfcbb03475a842943beaf4d8596.Caption" Value="Log case lifecycle changes" />
+			<Item Name="EventsProcessSchema.BaseElements.ScriptTask12_a94d1f8d4d0f44d29473fa2543bb6314.Caption" Value="Notify user" />
+			<Item Name="EventsProcessSchema.BaseElements.ScriptTask13_98981b6b93b84ead8fbfa00a0a643c17.Caption" Value="Clear case lifecycle on error" />
+			<Item Name="EventsProcessSchema.BaseElements.ScriptTask3_59172719002445b1a1206226f545deed.Caption" Value="CaseSaving" />
+			<Item Name="EventsProcessSchema.BaseElements.ScriptTask4_4f266438e2264953b9832eef7078a01a.Caption" Value="Set symptoms" />
+			<Item Name="EventsProcessSchema.BaseElements.ScriptTask5_7ec25dca49b14acbbf930b1d62f6cf8f.Caption" Value="SetNumberScriptTask" />
+			<Item Name="EventsProcessSchema.BaseElements.ScriptTask6_e7baaca435cc41f280597ed7d8f24d7c.Caption" Value="SetPortalNumberScriptTask" />
+			<Item Name="EventsProcessSchema.BaseElements.ScriptTask7_d3304acdbdb04ba0a1d260ca294d35d7.Caption" Value="SetGeneratedNumberScript" />
+			<Item Name="EventsProcessSchema.BaseElements.ScriptTask8_b02327163d5c40bcac65a748da3958cb.Caption" Value="SetProcessParameters" />
+			<Item Name="EventsProcessSchema.BaseElements.ScriptTask8_cc8b58ab6f544f2bb509c957112ab6cc.Caption" Value="Prepare fields" />
+			<Item Name="EventsProcessSchema.BaseElements.ScriptTask9_7d41c348574e4710bbaa97d91ced94a2.Caption" Value="Update columns for recalculation" />
+			<Item Name="EventsProcessSchema.BaseElements.SequenceFlow15.Caption" Value="No" />
+			<Item Name="EventsProcessSchema.BaseElements.SequenceFlow16.Caption" Value="External user" />
+			<Item Name="EventsProcessSchema.BaseElements.SetEmptyOwnerScriptTask.Caption" Value="Clear owner for portal user" />
+			<Item Name="EventsProcessSchema.BaseElements.SetGeneratedNumberScript.Caption" Value="SetGeneratedNumberScript" />
+			<Item Name="EventsProcessSchema.BaseElements.SetNumberScriptTask.Caption" Value="SetNumberScriptTask" />
+			<Item Name="EventsProcessSchema.BaseElements.SetPortalNumberScriptTask.Caption" Value="SetPortalNumberScriptTask" />
+			<Item Name="EventsProcessSchema.BaseElements.SetSymptomsScriptTask.Caption" Value="Script task 1" />
+			<Item Name="EventsProcessSchema.BaseElements.SLM_CaseSavingStartMessage.Caption" Value="CaseSaving" />
+			<Item Name="EventsProcessSchema.BaseElements.StartMessage10_60f4958b34e940788ce83baf3474405e.Caption" Value="CaseSaveError" />
+			<Item Name="EventsProcessSchema.BaseElements.StartMessage1CaseSaved.Caption" Value="CaseSaved" />
+			<Item Name="EventsProcessSchema.BaseElements.StartMessage3_2e318f1741a743a9af1d63d61473ccb0.Caption" Value="CaseSaving" />
+			<Item Name="EventsProcessSchema.BaseElements.StartMessage6_4c4c60a12c374f75818234d6bb493f97.Caption" Value="CaseSaving" />
+			<Item Name="EventsProcessSchema.BaseElements.StartMessage6.Caption" Value="CaseInserting" />
+			<Item Name="EventsProcessSchema.BaseElements.StartMessage7_ac5e99ce864a43dba33786faa8995a0d.Caption" Value="CaseInserting" />
+			<Item Name="EventsProcessSchema.BaseElements.StartMessage9_5969a30d831943f69a75f184230e2fe9.Caption" Value="CaseSaved" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet_0371e383eebd4789a0ac957457ca64b4.Caption" Value="LaneSet 1" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet_0371e383eebd4789a0ac957457ca64b4.Lanes.Lane_5892bf6b9aac4749aac64dffa0bf5f40.Caption" Value="Lane 1" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet_107bb63f73404e588ae0f681f96ec3a5.Caption" Value="LaneSet 1" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet_107bb63f73404e588ae0f681f96ec3a5.Lanes.Lane_7d2ef452ad474a509b6de1aab5a043d5.Caption" Value="Lane 1" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1253567487.Caption" Value="Pool 14675678567" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet_4377591758704bf1a0d47a2fb2bdbc1e.Caption" Value="LaneSet 1" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet_4377591758704bf1a0d47a2fb2bdbc1e.Lanes.Lane_26bfda63e82f4bebac23e30af4752766.Caption" Value="Lane 1" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSetActualizeConfItem.Caption" Value="LaneSetActualizeConfItem" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSetActualizeConfItem.Lanes.ActulizeConfItemsInCaseLane.Caption" Value="ActulizeConfItemsInCaseLane" />
+			<Item Name="EventsProcessSchema.Methods.ActualizePortalUsersRights.Caption" Value="ActualizePortalUsersRights" />
+			<Item Name="EventsProcessSchema.Methods.ActulizeConfItemsInCase.Caption" Value="ActulizeConfItemsInCase" />
+			<Item Name="EventsProcessSchema.Parameters.ClosedCaseLifeCycleId.Caption" Value="ClosedCaseLifeCycleId" />
+			<Item Name="EventsProcessSchema.Parameters.CreatedCaseLifecycleId.Caption" Value="CreatedCaseLifecycleId" />
+			<Item Name="EventsProcessSchema.Parameters.IsNew.Caption" Value="IsNew" />
+			<Item Name="EventsProcessSchema.Parameters.NeedSaveLifecycle.Caption" Value="NeedSaveLifecycle" />
+			<Item Name="EventsProcessSchema.Parameters.NewConfItemId.Caption" Value="NewConfItemId" />
+			<Item Name="EventsProcessSchema.Parameters.OldConfItemId.Caption" Value="OldConfItemId" />
+			<Item Name="EventsProcessSchema.Parameters.StatusChanged.Caption" Value="StatusChanged" />
+		</Items>
+	</Group>
+</Resources>

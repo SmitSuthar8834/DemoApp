@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "e981273d-c40e-4c69-b14d-5f2928565ba3",
+    "Name": "UsrProcess_838ca42",
+    "ModifiedOnUtc": "\/Date(1716813657000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Send Email on Application Received",
+    "DependsOn": []
+  }
+}

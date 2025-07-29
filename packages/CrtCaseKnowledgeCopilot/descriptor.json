@@ -1,0 +1,26 @@
+﻿{
+  "Descriptor": {
+    "UId": "8739d621-405b-219f-c713-ebf748faeee7",
+    "PackageVersion": "7.8.0",
+    "Name": "CrtCaseKnowledgeCopilot",
+    "Type": 1,
+    "InstallBehavior": 1,
+    "ModifiedOnUtc": "\/Date(1732030532000)\/",
+    "Maintainer": "Creatio",
+    "ProjectPath": "Files/CrtCaseKnowledgeCopilot.csproj",
+    "DependsOn": [
+      {
+        "UId": "408fe390-2c3e-4702-5703-80e181a174b3",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtKnowledgeManagementApp",
+        "Type": 1
+      },
+      {
+        "UId": "43d663d1-6ab9-4369-903c-f804cacc55e4",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCaseManagementApp",
+        "Type": 1
+      }
+    ]
+  }
+}

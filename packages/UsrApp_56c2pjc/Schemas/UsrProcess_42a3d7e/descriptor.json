@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "b96aacd8-281e-4ec9-9d51-a6f373a14886",
+    "Name": "UsrProcess_42a3d7e",
+    "ModifiedOnUtc": "\/Date(1727334319000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Reopen Case on Incoming email when status closed",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "ac8750ec-d2ac-4bea-8a25-b08f62884780",
+    "Name": "ExternalCases_AddPage",
+    "ModifiedOnUtc": "\/Date(1709645014000)\/",
+    "Parent": {
+      "UId": "cb295b23-6067-43a0-b8e5-447305b334fc",
+      "Name": "ExternalCases_AddPage"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "External cases add page",
+    "DependsOn": []
+  }
+}

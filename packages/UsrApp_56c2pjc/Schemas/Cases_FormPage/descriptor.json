@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "9bd3b67f-a2a3-453f-83a3-685066f8b8d0",
+    "Name": "Cases_FormPage",
+    "ModifiedOnUtc": "\/Date(1725886600000)\/",
+    "Parent": {
+      "UId": "c2a61a7d-9eba-49e8-a651-df65fc4d5359",
+      "Name": "Cases_FormPage"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Cases form page",
+    "DependsOn": []
+  }
+}

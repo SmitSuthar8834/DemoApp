@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "cf42068a-c561-404a-b039-b0fb41f7d4ef",
+    "Name": "ServiceEnterpriseHomePage",
+    "ModifiedOnUtc": "\/Date(1714039728000)\/",
+    "Parent": {
+      "UId": "05fe36d7-19fe-4b18-b7a7-50480820f292",
+      "Name": "ServiceEnterpriseHomePage"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Service homepage",
+    "DependsOn": []
+  }
+}

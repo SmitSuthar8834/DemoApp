@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.ReadArticles.Caption" Value="Читать статьи" />
+			<Item Name="BaseElements.ReadArticles.Parameters.AggregationColumnName.Caption" Value="Имя колонки для агрегирующей функции" />
+			<Item Name="BaseElements.ReadArticles.Parameters.CanReadUncommitedData.Caption" Value="Выполнять &quot;грязное чтение&quot;" />
+			<Item Name="BaseElements.ReadArticles.Parameters.ConsiderTimeInFilter.Caption" Value="Учитывать время в фильтре" />
+			<Item Name="BaseElements.ReadArticles.Parameters.ConsiderTimeInFilter.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ReadArticles.Parameters.DataSourceFilters.Caption" Value="Источник данных фильтров" />
+			<Item Name="BaseElements.ReadArticles.Parameters.EntityColumnMetaPathes.Caption" Value="Перечень колонок для чтения" />
+			<Item Name="BaseElements.ReadArticles.Parameters.FunctionType.Caption" Value="Тип агрегирующей функции" />
+			<Item Name="BaseElements.ReadArticles.Parameters.IgnoreDisplayValues.Caption" Value="Не читать отображаемые значения колонок Справочников" />
+			<Item Name="BaseElements.ReadArticles.Parameters.NumberOfRecords.Caption" Value="Количество записей для чтения" />
+			<Item Name="BaseElements.ReadArticles.Parameters.OrderInfo.Caption" Value="Порядок сортировки колонок" />
+			<Item Name="BaseElements.ReadArticles.Parameters.ReadSomeTopRecords.Caption" Value="Читать первые" />
+			<Item Name="BaseElements.ReadArticles.Parameters.ResultCompositeObjectList.Caption" Value="Коллекция записей" />
+			<Item Name="BaseElements.ReadArticles.Parameters.ResultCompositeObjectList.Id.Caption" Value="Id" />
+			<Item Name="BaseElements.ReadArticles.Parameters.ResultCompositeObjectList.Name.Caption" Value="Заголовок" />
+			<Item Name="BaseElements.ReadArticles.Parameters.ResultCompositeObjectList.NotHtmlNote.Caption" Value="Решение без HTML тегов" />
+			<Item Name="BaseElements.ReadArticles.Parameters.ResultCount.Caption" Value="Количество записей" />
+			<Item Name="BaseElements.ReadArticles.Parameters.ResultDateTimeFunction.Caption" Value="Результат функции (Дата/Время)" />
+			<Item Name="BaseElements.ReadArticles.Parameters.ResultEntity.Caption" Value="Первый элемент результирующей коллекции" />
+			<Item Name="BaseElements.ReadArticles.Parameters.ResultEntityCollection.Caption" Value="Результирующая коллекция" />
+			<Item Name="BaseElements.ReadArticles.Parameters.ResultFloatFunction.Caption" Value="Результат функции (Дробное число)" />
+			<Item Name="BaseElements.ReadArticles.Parameters.ResultIntegerFunction.Caption" Value="Результат функции (Целое)" />
+			<Item Name="BaseElements.ReadArticles.Parameters.ResultRowsCount.Caption" Value="Количество прочитанных записей" />
+			<Item Name="BaseElements.ReadArticles.Parameters.ResultType.Caption" Value="Тип результата" />
+			<Item Name="BaseElements.ScriptTask1.Caption" Value="Сохранить в параметр" />
+			<Item Name="Caption" Value="Читать статьи базы знаний по обращению" />
+			<Item Name="Description" Value="Getting linked knowledge articles based on Case Id" />
+			<Item Name="Parameters.CaseId.Caption" Value="Case id" />
+			<Item Name="Parameters.CaseId.Sys_Description" Value="-" />
+			<Item Name="Parameters.KnowledgeArticles.Caption" Value="Knowledge articles" />
+			<Item Name="Parameters.KnowledgeArticles.Name.Caption" Value="Title" />
+			<Item Name="Parameters.KnowledgeArticles.Name.Sys_Description" Value="Article title" />
+			<Item Name="Parameters.KnowledgeArticles.NotHtmlNote.Caption" Value="Solution without HTML tags" />
+			<Item Name="Parameters.KnowledgeArticles.NotHtmlNote.Sys_Description" Value="Article text" />
+			<Item Name="Parameters.KnowledgeArticles.Sys_Description" Value="The linked articles by case" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.WebService1.Caption" Value="https://dev-qnovate.creatio.com 1" />
+			<Item Name="BaseElements.WebService1.Parameters.RequestBody.Caption" Value="Request body" />
+			<Item Name="BaseElements.WebService1.Parameters.Response.Caption" Value="Response body" />
+			<Item Name="BaseElements.WebService1.Parameters.StatusCode.Caption" Value="Http status code" />
+			<Item Name="BaseElements.WebService1.Parameters.Success.Caption" Value="Success" />
+			<Item Name="BaseElements.WebService1.Parameters.UsrParameter1_Out.Caption" Value=".ASPXAUTH" />
+			<Item Name="BaseElements.WebService1.Parameters.UsrParameter2_Out.Caption" Value="BPMCSRF" />
+			<Item Name="BaseElements.WebService1.Parameters.UsrUName_In.Caption" Value="UserName" />
+			<Item Name="BaseElements.WebService1.Parameters.UsrUPassword_In.Caption" Value="UserPassword" />
+			<Item Name="Caption" Value="Business process 6" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
+			<Item Name="NotificationCaption.Caption" Value="Process instance caption" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Process name#]" />
+		</Items>
+	</Group>
+</Resources>

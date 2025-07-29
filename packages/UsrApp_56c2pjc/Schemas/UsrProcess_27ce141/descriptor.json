@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "2894de15-526b-4840-ac2e-f3a2d1edf3be",
+    "Name": "UsrProcess_27ce141",
+    "ModifiedOnUtc": "\/Date(1726125524000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Add Record in Change log",
+    "DependsOn": []
+  }
+}

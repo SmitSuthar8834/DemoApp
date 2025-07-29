@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "6e6f0e00-4b8f-4743-b990-322bf6bf5b9c",
+    "Name": "CaseBusinessRule",
+    "ModifiedOnUtc": "\/Date(1713788286000)\/",
+    "Parent": {
+      "UId": "564eaca1-208b-4f12-bc04-516809c03066",
+      "Name": "CaseBusinessRule"
+    },
+    "ExtendParent": true,
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Case (Business rules)",
+    "DependsOn": []
+  }
+}
